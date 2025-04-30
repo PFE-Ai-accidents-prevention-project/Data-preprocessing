@@ -1,0 +1,546 @@
+Title Incident Report,Segment,Location,Date,Department / Area,Process,Operation Mode,Machine Category,Machine Type,Riskfactor,Repeat Incident,Maximum Possible Damage/Harm Occurred,Employee_Type,Gender,Type of Injury,Injured Body Part,Lost Days,Accident type
+hand injury,SY,ElJem,2019-01-21,MR,I - 4008 - assembly,Normal mode,Other,,10.2 Work organization,YES,YES,DRX,Male,Bruise,Hand,7,Work related accident
+hand injury,SY,ElJem,2019-01-16,Production,I - 4008 - assembly,Normal mode,Other,,8.4 Inadequate escape routes,NO,YES,DRX,Female,Bruise,Hand,10,Work related accident
+back injury,SY,ElJem,2019-01-29,IR,I - 4023 - foldback,Normal mode,Other,-,10.2 Work organization,YES,YES,DRX,Male,Sprain / Strain,Body,15,Work related accident
+hand injury,SY,ElJem,2019-02-20,MR,I - 4008 - assembly,Normal mode,Other,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirement, insufficient break rooms, sanitary rooms",YES,YES,DRX,Female,Bruise,Hand,15,Work related accident
+eye injury,SY,ElJem,2019-02-25,MM,I - 4008 - assembly,Normal mode,Other,,8.4 Inadequate escape routes,YES,YES,DRX,Female,Other,Eye,13,Work related accident
+ankle injury,SY,ElJem,2019-02-28,IR,I - 4008 - assembly,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Female,Sprain / Strain,Hand,15,Work related accident
+hand injury,SY,ElJem,2019-01-03,MR,I - 4008 - assembly,Normal mode,Other,,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Male,Sprain / Strain,Hand,7,Work related accident
+hand injury,SY,ElJem,2019-07-03,WC,-,Normal mode,Tools / Utilities,,10.2 Work organization,YES,YES,DRX,Female,Sprain / Strain,Hand,12,Work related accident
+lumbago,SY,ElJem,2019-03-15,Logistics,I - 4008 - assembly,Normal mode,Other,,9.5 Working with increased exertion and/or  applied strength,YES,YES,DRX,Male,Other,Body,10,Work related accident
+hand injury,SY,ElJem,2019-03-19,IR,I - 4008 - assembly,Normal mode,Other,,9.2 Manual work requiring a low level of physical strength,NO,YES,DRX,Male,Stab injury,Hand,5,Work related accident
+back injury,SY,ElJem,2019-01-04,MM,I - 3001 - drilling - vacuum_holes,Normal mode,Other,,9.2 Manual work requiring a low level of physical strength,NO,YES,DRX,Male,Sprain / Strain,Body,5,Work related accident
+hand injury,SY,ElJem,2019-02-04,assembly,I - 3013 - cutting - manual,Malfunction,Machine Tool,,"5.1 Combustible solids, liquids, gases",YES,YES,DRX,Male,Cut,Hand,21,Work related accident
+Lumbar trauma,SY,ElJem,2019-02-04,assembly,I - 3013 - cutting - manual,Malfunction,Other,,"1.5 Falling, slipping, stumbling, tripping",YES,YES,DRX,Female,Sprain / Strain,Body,7,Work related accident
+lumbago,SY,ElJem,2019-03-04,Logistics,I - 7009 - commissioning,Normal mode,Other,,9.3 Forced posture,YES,YES,DRX,Male,Other,Body,15,Work related accident
+foot injury,SY,ElJem,2019-04-16,IR,I - 4008 - assembly,Normal mode,Conveyor System / Robot,AGV SYSTEM,1.2 Parts with dangerous surfaces,NO,YES,DRX,Female,Sprain / Strain,Foot,15,Work related accident
+hand injury,SY,ElJem,2019-07-05,MM,"E - 7015 extracting,_laying-up_and_handle - wire_/_module_/wire_harness",Normal mode,Other,,1.3 Transport and mobile work equipment,NO,NO,DRX,Male,Sprain / Strain,Hand,16,Work related accident
+finger injury,SY,ElJem,2019-05-13,IR,"E - 7015 extracting,_laying-up_and_handle - wire_/_module_/wire_harness",Normal mode,Other,,10.1 Work contents/job assignments,YES,YES,DRX,Male,Sprain / Strain,Hand,18,Work related accident
+head trauma,SY,ElJem,2019-07-06,IR,E - 8001 commissioning,Normal mode,Other,-,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Other,Head,7,Work related accident
+right hypochondrial pain,SY,ElJem,2019-10-06,Logistics,I - 3003 - turning,Normal mode,Other,,1.3 Transport and mobile work equipment,NO,NO,DRX,Male,Bruise,Arm,2,Work related accident
+foot injury,SY,ElJem,2019-06-21,MR,I - 3003 - turning,Normal mode,Other,,"1.5 Falling, slipping, stumbling, tripping",YES,YES,DRX,Female,Sprain / Strain,Foot,15,Work related accident
+knee injury,SY,ElJem,2019-06-22,MR,I - 4008 - assembly,Normal mode,Other,,"1.5 Falling, slipping, stumbling, tripping",NO,NO,DRX,Female,Other,Foot,10,Work related accident
+back injury,SY,ElJem,2019-05-07,Nacherbeit,I - 4023 - foldback,Normal mode,Other,,10.2 Work organization,YES,YES,DRX,Female,Other,Body,4,Work related accident
+severe neck pain,SY,ElJem,2019-05-07,Logistics,I - 4023 - foldback,Normal mode,Other,,10.2 Work organization,YES,NO,DRX,Male,Other,Body,5,Work related accident
+back injury,SY,ElJem,2019-06-07,,Other,Maintenance,Other,,-,YES,YES,DRX,Male,Strain,Body,7,Work related accident
+foot injury,SY,ElJem,2019-07-08,,E - 7001 walking time_/_assembly line,Normal mode,Other,,10.4 Work environment,YES,NO,DRX,Female,Sprain / Strain,Foot,15,Work related accident
+knee injury,SY,ElJem,2019-03-07,MM,I - 4008 - assembly,Normal mode,Other,,1.2 Parts with dangerous surfaces,YES,NO,DRX,Female,Sprain / Strain,Foot,7,Work related accident
+knee injury,SY,ElJem,2019-03-07,MM,I - 4008 - assembly,Normal mode,Other,,1.2 Parts with dangerous surfaces,YES,NO,DRX,Female,Sprain / Strain,Foot,8,Work related accident
+foot injury,SY,ElJem,2019-08-22,MM,I - 4008 - assembly,Normal mode,Other,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Female,Other,Foot,10,Work related accident
+hand injury,SY,ElJem,2019-08-20,Administration,I - 4008 - assembly,Normal mode,Other,,10.4 Work environment,NO,NO,DRX,Female,Other,Hand,10,Work related accident
+finger injury,SY,ElJem,2019-03-09,IR,I - 4008 - assembly,Normal mode,Machine Tool,tesa cutter,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Cut,Hand,10,Work related accident
+back injury,SY,ElJem,2019-09-19,IR,I - 4008 - assembly,Normal mode,Other,,1.4 Uncontrolled moving parts,YES,YES,DRX,Female,Other,Body,7,Work related accident
+back injury,SY,ElJem,2019-09-19,Logistics,I - 7009 - commissioning,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Male,Other,Body,7,Work related accident
+wrist injury,SY,ElJem,2019-11-10,MM,I - 4008 - assembly,Normal mode,Other,,1.6 Falls,NO,YES,DRX,Male,Other,Hand,4,Work related accident
+deep wound with stitches,SY,ElJem,2019-09-25,IR,I - 4008 - assembly,Normal mode,Other,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Cut,Hand,10,Work related accident
+thumb injury,SY,ElJem,2019-09-26,IR,I - 4014 - pressing_(joining) - ironing_pressing,Normal mode,Power / Work Machine,Ushall,1.2 Parts with dangerous surfaces,NO,YES,DRX,Female,Cut,Hand,1,Work related accident
+shoulder injury,SY,ElJem,2019-09-30,IR,I - 4008 - assembly,Normal mode,Other,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Abrasion,Body,8,Work related accident
+toe injury,SY,ElJem,2019-08-27,Production,I - 4008 - assembly,Normal mode,Other,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Fracture,Foot,45,Work related accident
+hand injury,SY,ElJem,2019-10-25,MM,I - 4016 - screwing,Normal mode,Other,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Other,Hand,10,Work related accident
+eye injury,SY,ElJem,2019-11-20,IR,I - 4008 - assembly,Normal mode,Other,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Other,Eye,3,Work related accident
+hand injury,SY,ElJem,2019-11-18,MR,I - 4008 - assembly,Normal mode,Other,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Male,Cut,Hand,4,Work related accident
+shoulder injury,SY,ElJem,2019-11-15,Logistics,I - 7009 - commissioning,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Male,Other,Body,19,Work related accident
+lumbago,SY,ElJem,2019-11-13,IR,I - 4008 - assembly,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Female,Other,Body,15,Work related accident
+back injury,SY,ElJem,2019-12-12,Logistics,E - 8001 commissioning,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Male,Other,Body,21,Work related accident
+lumbago,SY,ElJem,2019-12-18,MR,I - 4008 - assembly,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Male,Other,Body,16,Work related accident
+hand injury,SY,ElJem,2019-02-28,MR,I - 4008 - assembly,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Female,Sprain / Strain,Hand,15,Work related accident
+hand injury,SY,ElJem,2019-05-22,IR,I - 4008 - assembly,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Male,Bruise,Hand,12,Work related accident
+foot injury,SY,ElJem,2019-01-05,IR,I - 4008 - assembly,Normal mode,Conveyor System / Robot,AGV SYSTEM,1.2 Parts with dangerous surfaces,NO,YES,DRX,Female,Sprain / Strain,Foot,15,Work related accident
+hand injury,IS,Rosslyn,2019-09-08,Maintanance,Other,Normal mode,Other,,4.1 Infections,NO,NO,DRX,Male,Laceration,Hand,3,Work related accident
+foot injury,IS,Rosslyn,2019-10-21,Logistics,I - 8004 - internal_transport,Normal mode,Power / Work Machine,Reach Truck,1.3 Transport and mobile work equipment,NO,NO,DRX,Female,Sprain / Strain,Foot,8,Work related accident
+hand injury,IS,Rosslyn,2019-09-01,Maintanance,I - 5007 - painting - painting - silver_coating_badge,Maintenance,Other,,9.2 Manual work requiring a low level of physical strength,NO,YES,DRX,Male,Fracture,Hand,16,Work related accident
+thumb injury,IS,Rosslyn,2019-01-08,Logistics,Other,Normal mode,Other,,4.1 Infections,NO,NO,DRX,Male,Cut,Hand,3,Work related accident
+Leg injury,ES,Siliana,2019-05-22,ZSB,Other,Normal mode,Other,no machine,10.4 Work environment,NO,YES,DRX,Female,Sprain / Strain,Foot,3,Work related accident
+eye injury,ES,Siliana,2019-08-23,ZSB,-,Normal mode,Machine Tool,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Female,Other,Eye,10,Work related accident
+hand injury,ES,Siliana,2019-04-19,ZSB,Other,Maintenance,Machine Tool,no machine,-,NO,YES,DRX,Female,Fracture,Arm,3,Work related accident
+eye injury,ES,Siliana,2019-04-18,IR,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Leg,2,Work related accident
+eye injury,ES,Siliana,2019-04-30,ZSB,Other,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Eye,4,Work related accident
+eye injury,ES,Siliana,2019-02-22,ZSB,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Hand,7,Work related accident
+eye injury,ES,Siliana,2019-02-26,SI,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Other,Body,3,Work related accident
+eye injury,ES,Siliana,2019-02-20,Production,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Other,Leg,7,Work related accident
+eye injury,ES,Siliana,2019-02-20,MM,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Head,5,Work related accident
+eye injury,ES,Siliana,2019-01-30,Logistics,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Other,Leg,3,Work related accident
+eye injury,ES,Siliana,2019-01-30,Logistics,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Hand,3,Work related accident
+eye injury,ES,Siliana,2019-01-16,Logistics,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Other,Hand,3,Work related accident
+eye injury,ES,Siliana,2019-01-29,ZSB,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Other,Leg,4,Work related accident
+eye injury,ES,Siliana,2019-01-18,Production,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Other,Body,6,Work related accident
+hand injury,ES,Siliana,2019-09-07,ZSB,-,Normal mode,Machine Tool,no machine,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Female,Fracture,Hand,4,Work related accident
+shoulder injury,ES,Siliana,2019-10-06,SI,I - 4007 - gluing - assembly_bonding,Maintenance,Other,no machine,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Male,Fracture,Hand,7,Work related accident
+wrist injury,ES,Siliana,2019-05-21,Logistics,Other,Normal mode,Other,no machine,1.3 Transport and mobile work equipment,NO,NO,DRX,Male,Fracture,Body,3,Work related accident
+Leg injury,ES,Siliana,2019-05-22,Logistics,Other,Normal mode,Other,no machine,10.4 Work environment,NO,NO,DRX,Female,Sprain / Strain,Foot,2,Work related accident
+foot injury,ES,Siliana,2019-05-21,KS,Other,Normal mode,Other,no machine,9.5 Working with increased exertion and/or  applied strength,NO,NO,DRX,Male,Fracture,Foot,5,Work related accident
+lumbago,ES,Siliana,2019-03-05,Logistics,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,NO,DRX,Male,Other,Body,7,Work related accident
+eye injury,ES,Siliana,2019-07-03,IR,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Foot,2,Work related accident
+eye injury,ES,Siliana,2019-03-14,IR,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Body,3,Work related accident
+eye injury,ES,Siliana,2019-07-03,ZSB,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Foot,4,Work related accident
+eye injury,ES,Siliana,2019-07-03,MR,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Hand,12,Work related accident
+eye injury,ES,Siliana,2019-07-03,ZSB,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Eye,7,Work related accident
+eye injury,ES,Siliana,2019-07-03,ZSB,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Other,Body,5,Work related accident
+eye injury,ES,Siliana,2019-07-03,ZSB,Other,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Other,Body,7,Work related accident
+Leg injury,ES,Siliana,2019-08-30,BX8,-,Normal mode,Other,No involved Machine,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Female,Sprain / Strain,Foot,14,Work related accident
+hand injury,ES,Siliana,2019-04-09,SI,-,Normal mode,Other,No involved machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Laceration,Hand,47,Work related accident
+hand injury,ES,Siliana,2019-08-30,Logistics,-,Normal mode,Other,,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Male,Fracture,Hand,42,Work related accident
+finger injury,ES,Siliana,2019-09-27,Maintenance,I - 1001 - blow_molding,Normal mode,Metal Working Machine,No involved machine,10.2 Work organization,NO,YES,DRX,Male,Laceration,Hand,7,Work related accident
+finger injury,ES,Siliana,2019-09-12,Maintenance,I - 1001 - blow_molding,Normal mode,Metal Working Machine,No involved machine,10.2 Work organization,NO,YES,DRX,Male,Laceration,Hand,5,Work related accident
+finger injury,ES,Siliana,2019-09-12,ZSB,-,Normal mode,Other,No involved machine,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Female,Laceration,Hand,23,Work related accident
+eye injury,ES,Siliana,2019-09-23,ZSB,-,Normal mode,Other,No involved machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Abrasion,Eye,14,Work related accident
+hand injury,ES,Siliana,2019-10-03,FBB,I - 1001 - blow_molding,Normal mode,Other,No involved machine,10.2 Work organization,NO,YES,DRX,Male,Laceration,Hand,10,Work related accident
+eye injury,ES,Siliana,2019-09-27,ZSB,-,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Female,Other,Eye,5,Work related accident
+hand injury,ES,Siliana,2019-10-01,ZSB,-,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Female,Fracture,Hand,23,Work related accident
+hand injury,ES,Siliana,2019-10-07,ZSB,-,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Female,Fracture,Foot,7,Work related accident
+toe injury,ES,Siliana,2019-10-07,FBB,I - 1001 - blow_molding,Normal mode,Other,No involved machine,10.2 Work organization,NO,YES,DRX,Male,Laceration,Foot,35,Work related accident
+Leg injury,ES,Siliana,2019-10-14,Logistics,I - 1001 - blow_molding,Normal mode,Other,No involved machine,10.2 Work organization,NO,YES,DRX,Female,Laceration,Foot,10,Work related accident
+hand injury,ES,Siliana,2019-10-29,KS,I - 1001 - blow_molding,Normal mode,Packaging Machine,No involved machine,10.2 Work organization,NO,YES,DRX,Male,Laceration,Hand,15,Work related accident
+finger injury,ES,Siliana,2019-10-28,Maintenance,I - 1001 - blow_molding,Normal mode,Other,No involved machine,10.2 Work organization,NO,YES,DRX,Male,Laceration,Hand,15,Work related accident
+Laceration,ES,Siliana,2019-11-26,Logistics,E - 2001 welding - ultrasonic - wire-cord,Normal mode,Other,No involved machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Laceration,Hand,7,Work related accident
+toe injury,ES,Siliana,2019-10-04,FBB,I - 1001 - blow_molding,Normal mode,Other,No involved machine,10.2 Work organization,NO,YES,DRX,Male,Laceration,Foot,15,Work related accident
+back injury,ES,Siliana,2019-12-10,Logistics,I - 1001 - blow_molding,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Other,Body,7,Work related accident
+eye injury,ES,Siliana,2019-12-06,KS,I - 1001 - blow_molding,Normal mode,Other,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",NO,NO,DRX,Male,Other,Eye,5,Work related accident
+eye injury,ES,Siliana,2019-12-05,ZSB,I - 1001 - blow_molding,Normal mode,Machine Tool,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Female,Other,Eye,7,Work related accident
+body injury,ES,Siliana,2019-12-13,ZSB,I - 1001 - blow_molding,Normal mode,Other,no machine,9.3 Forced posture,NO,YES,DRX,Female,Other,Body,7,Work related accident
+eye injury,ES,Siliana,2019-12-16,ZSB,I - 1001 - blow_molding,Normal mode,Machine Tool,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",YES,NO,DRX,Female,Other,Eye,5,Work related accident
+eye injury,ES,Siliana,2019-12-11,ZSB,-,Normal mode,Machine Tool,no machine,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Female,Other,Eye,7,Work related accident
+hand injury,ES,Siliana,2019-11-09,Production,-,Normal mode,Other,No involved machine,-,NO,YES,DRX,Male,Other,Hand,5,Work related accident
+hand injury,ES,SousseMETS,2019-03-28,Production,I - 7003 - measurement,Normal mode,Other,,1.1 Controlled moved unprotected parts,NO,YES,DRX,Male,Abrasion,Hand,10,Work related accident
+finger injury,ES,SousseMETS,2019-03-01,KS,I - 4008 - assembly,Normal mode,Power / Work Machine,Machine CRMP CENTER 365,1.2 Parts with dangerous surfaces,YES,YES,DRX,male,Abrasion,Hand,10,Work related accident
+back injury,ES,SousseMETS,2019-01-16,Logistics,-,Normal mode,Other,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Other,Body,15,Work related accident
+hand injury,ES,SousseMETS,2019-01-29,KS,E - 8001 commissioning,Normal mode,Other,,1.4 Uncontrolled moving parts,NO,YES,DRX,Male,Bruise,Hand,4,Work related accident
+hand injury,IS,SousseMETS,2019-08-01,KS,-,Normal mode,Other,,-,YES,NO,DRX,Male,Fracture,Hand,8,Work related accident
+hand injury,ES,SousseMETS,2019-02-13,KS,-,Normal mode,Other,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Stab injury,Hand,12,Work related accident
+thumb injury,ES,SousseMETS,2019-08-01,assembly,-,Normal mode,Other,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Stab injury,Hand,8,Work related accident
+hand injury,ES,SousseMETS,2019-01-23,Maintenance,I - 7005 - testing,Maintenance,Process Machine,Press MFU,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Bruise,Hand,30,Work related accident
+hand injury,ES,SousseMETS,2019-02-25,Logistics,I - 8004 - internal_transport,Normal mode,Process Machine,forklift,1.3 Transport and mobile work equipment,NO,YES,DRX,Male,Bruise,Foot,15,Work related accident
+Head wound,ES,SousseMETS,2019-09-01,KS,I - 3022 - cutting - machine,Normal mode,Other,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Stab injury,Head,8,Work related accident
+Head wound,ES,SousseMETS,2019-01-25,KS,E - 7002 testing - function_electrical,Normal mode,Other,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Male,Stab injury,Head,6,Work related accident
+finger injury,ES,SousseMETS,2019-02-04,VK,I - 3020 - cutting - roll_goods,Normal mode,Process Machine,SERTISSAGE (::),1.1 Controlled moved unprotected parts,YES,YES,DRX,Female,Bruise,Hand,15,Work related accident
+foot injury,ES,SousseMETS,2019-04-05,Zeta,-,Normal mode,Other,,10.4 Work environment,NO,YES,DRX,Female,Cut,Foot,20,Work related accident
+neck injury,ES,SousseMETS,2019-04-26,SI,I - 1021 - injection_compression_molding,Normal mode,Other,,3.3 Skin contact with hazardous substances,NO,YES,DRX,Male,Burn/Scald,Body,20,Work related accident
+hand injury,ES,SousseMETS,2019-01-17,BX8,I - 4008 - assembly,Normal mode,Other,,1.3 Transport and mobile work equipment,YES,YES,DRX,Female,Bruise,Hand,15,Work related accident
+foot injury,ES,SousseMETS,2019-10-07,Logistics,I - 8001 - supply_for_transport_to_next_plant,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Bruise,Foot,10,Work related accident
+lombagie,SY,SousseMETS,2019-09-30,Logistics,-,Normal mode,Other,,-,YES,NO,DRX,Male,Abrasion,Other,5,Work related accident
+hand injury,ES,SousseMETS,2019-03-27,Production,I - 7003 - measurement,Normal mode,Other,,1.1 Controlled moved unprotected parts,NO,YES,DRX,Male,Abrasion,Hand,10,Work related accident
+hand injury,ES,SousseMETS,2019-03-26,VK,I - 7011 - cleaning,Normal mode,Other,,10.2 Work organization,NO,YES,DRX,Female,Abrasion,Hand,15,Work related accident
+hand injury,ES,SousseMETS,2019-03-13,Zeta,I - 4008 - assembly,Normal mode,Power / Work Machine,Hanke,1.2 Parts with dangerous surfaces,NO,YES,DRX,Female,Stab injury,Hand,8,Work related accident
+hand injury,ES,SousseMETS,2019-06-03,WC,-,Normal mode,Other,,-,NO,YES,DRX,Female,Bruise,Hand,10,Work related accident
+finger injury,ES,SousseMETS,2019-05-03,KS,I - 4015 - pressing_(joining) - roll_pressing,Testing mode,Other,SCHÄFER,1.2 Parts with dangerous surfaces,YES,YES,DRX,Male,Fracture,Hand,35,Work related accident
+hand injury,ES,SousseMETS,2019-01-03,VK,I - 3013 - cutting - manual,Normal mode,Other,Coupe tesa,1.1 Controlled moved unprotected parts,NO,YES,DRX,Female,Stab injury,Hand,10,Work related accident
+hand injury,ES,SousseMETS,2019-06-29,KS,-,Normal mode,Other,,-,NO,YES,DRX,Male,Bruise,Hand,15,Work related accident
+hand injury,ES,SousseMETS,2019-06-28,Zeta,E - 4001 crimping - contact_part,Normal mode,Process Machine,Hanke 971,1.1 Controlled moved unprotected parts,YES,NO,DRX,Male,Stab injury,Hand,12,Work related accident
+hand injury,SY,SousseMETS,2019-06-19,KS,-,Normal mode,Other,,-,NO,YES,DRX,Male,Bruise,Hand,15,Work related accident
+foot injury,SY,SousseMETS,2019-10-06,Quality,-,Normal mode,Other,,-,NO,YES,DRX,Male,Fracture,Foot,21,Work related accident
+back injury,SY,SousseMETS,2019-10-21,Logistics,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,NO,DRX,Male,Abrasion,Body,6,Work related accident
+neck injury,SY,SousseMETS,2019-10-21,VK,I - 7009 - commissioning,Normal mode,Other,,9.2 Manual work requiring a low level of physical strength,NO,NO,DRX,Female,Abrasion,Other,15,Work related accident
+back injury,SY,SousseMETS,2019-12-12,BX8,E - 4003 assembly - comb_conectro_/fuse_beam,Normal mode,Tools / Utilities,plan de travail,1.1 Controlled moved unprotected parts,NO,NO,DRX,Female,Bruise,Body,12,Work related accident
+hand injury,SY,SousseMETS,2019-11-26,BX8,I - 7011 - cleaning,Normal mode,Other,,10.2 Work organization,NO,NO,DRX,Female,Fracture,Hand,1,Work related accident
+eye injury,ES,SousseMETS,2019-09-20,Zeta,-,Normal mode,Other,,-,NO,YES,DRX,Female,Bruise,Eye,6,Work related accident
+hand injury,SY,SousseMETS,2019-09-20,Maintenance,-,Normal mode,Other,,8.4 Inadequate escape routes,NO,NO,DRX,Male,Fracture,Hand,30,Work related accident
+finger injury,SY,SousseMETS,2019-09-18,VK,E - 4015 crimping - doublestrike - wire-contact_part,Maintenance,Process Machine,HANKE,1.2 Parts with dangerous surfaces,YES,NO,DRX,Male,Cut,Hand,45,Work related accident
+foot injury,ES,SousseMETS,2019-12-03,Administration,-,Normal mode,Other,,-,NO,YES,DRX,Female,Bruise,Foot,15,Work related accident
+foot injury,IS,SousseMETS,2019-04-02,BX8,Other,Normal mode,Other,,-,NO,YES,DRX,Female,Bruise,Foot,21,Work related accident
+hand injury,ES,SousseMETS,2019-08-04,Production,Other,Normal mode,Other,,1.6 Falls,YES,YES,DRX,Male,Bruise,Hand,30,Work related accident
+finger injury,SY,SousseMETS,2019-11-06,BX8,E - 4016 assembly - corrugated_pipe_/_sleeving,Normal mode,Other,,9.5 Working with increased exertion and/or  applied strength,NO,YES,DRX,Female,Fracture,Hand,25,Work related accident
+foot injury,ES,SousseMETS,2019-11-04,Administration,-,Normal mode,Other,,-,NO,YES,DRX,Female,Bruise,Foot,10,Work related accident
+knee injury,SY,SousseMETS,2019-02-08,KS,I - 8004 - internal_transport,Normal mode,Tools / Utilities,chariot,1.3 Transport and mobile work equipment,YES,NO,DRX,Male,Bruise,Foot,7,Work related accident
+finger injury,ES,SousseMETS,2019-03-08,KS,E - 4001 crimping - contact_part,Normal mode,Metal Working Machine,schaeffer,-,YES,NO,DRX,Male,Laceration,Hand,12,Work related accident
+body injury,ES,SousseMETS,2019-02-08,Logistics,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Sprain / Strain,Body,7,Work related accident
+back injury,ES,SousseMETS,2019-10-17,KS,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Sprain / Strain,Arm,4,Work related accident
+back injury,ES,SousseMETS,2019-10-17,KS,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Sprain / Strain,Body,3,Work related accident
+back injury,ES,SousseMETS,2019-10-17,Logistics,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Sprain / Strain,Body,15,Work related accident
+neck injury,ES,SousseMETS,2019-12-03,BX8,I - 7004 - reworking,Normal mode,Other,,9.2 Manual work requiring a low level of physical strength,NO,YES,DRX,Female,Bruise,Arm,12,Work related accident
+foot injury,ES,SousseMETS,2019-11-21,BX8,Other,Normal mode,Other,,-,NO,YES,DRX,Female,Bruise,Foot,4,Work related accident
+back injury,SY,SousseMETS,2019-09-27,KS,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,NO,DRX,Male,Abrasion,Body,5,Work related accident
+neck injury,ES,SousseMETS,2019-12-03,BX8,I - 7004 - reworking,Normal mode,Other,,9.2 Manual work requiring a low level of physical strength,NO,YES,DRX,Female,Bruise,Arm,12,Work related accident
+finger injury,ES,SousseMETS,2019-07-02,Zeta,E - 4001 crimping - contact_part,Normal mode,Process Machine,Hanke 971,1.1 Controlled moved unprotected parts,YES,NO,DRX,Male,Stab injury,Hand,12,Work related accident
+hand injury,ES,SousseMETS,2019-02-02,BX8,I - 4008 - assembly,Normal mode,Other,,1.3 Transport and mobile work equipment,YES,YES,DRX,Female,Bruise,Hand,15,Work related accident
+back injury,ES,SousseMETS,2019-07-31,Logistics,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Sprain / Strain,Body,8,Work related accident
+finger injury,IS,SousseMETS,2019-08-01,KS,-,Normal mode,Other,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Stab injury,Hand,8,Work related accident
+hand injury,SY,SousseMETS,2019-08-20,KS,I - 8004 - internal_transport,Normal mode,Tools / Utilities,trolley,1.3 Transport and mobile work equipment,YES,NO,DRX,Male,Stab injury,Hand,10,Work related accident
+back injury,ES,SousseMETS,2019-08-21,KS,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Sprain / Strain,Body,10,Work related accident
+eye injury,ES,SousseMETS,2019-12-16,BX8,E - 3001 skinning_/_strip_/_removing - removal - wire_insulation,Normal mode,Other,,1.4 Uncontrolled moving parts,NO,YES,DRX,Female,Bruise,Eye,6,Work related accident
+leg injury,ES,SousseMETS,2019-09-17,MM,-,Normal mode,Other,,-,NO,YES,DRX,Female,Abrasion,Foot,10,Work related accident
+finger injury,SY,SousseMETS,2019-09-13,MM,-,Normal mode,Other,,-,NO,NO,DRX,Male,Abrasion,Foot,8,Work related accident
+finger injury,SY,SousseMETS,2019-10-09,BX8,"E - 7015 extracting,_laying-up_and_handle - wire_/_module_/wire_harness",Testing mode,Tools / Utilities,,1.2 Parts with dangerous surfaces,NO,NO,DRX,Male,Cut,Hand,10,Work related accident
+finger injury,SY,SousseMETS,2019-09-09,BX8,"E - 7015 extracting,_laying-up_and_handle - wire_/_module_/wire_harness",Testing mode,Tools / Utilities,,1.2 Parts with dangerous surfaces,NO,NO,DRX,Male,Abrasion,Hand,10,Work related accident
+hip injury,SY,SousseMETS,2019-10-09,KS,"E - 7015 extracting,_laying-up_and_handle - wire_/_module_/wire_harness",Maintenance,Process Machine,Komax alpha 355,-,NO,NO,DRX,Male,Sprain / Strain,Leg,12,Work related accident
+hand injury,SY,SousseMETS,2019-10-25,Production,I - 7009 - commissioning,Normal mode,Other,,9.2 Manual work requiring a low level of physical strength,NO,NO,DRX,Male,Abrasion,Hand,8,Work related accident
+back injury,ES,SousseMETS,2019-10-15,Logistics,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Sprain / Strain,Body,3,Work related accident
+foot injury,SY,SousseMETS,2019-11-10,BX8,-,Normal mode,Other,,-,YES,NO,DRX,Female,Stab injury,Foot,11,Work related accident
+hand injury,ES,SousseMETS,2019-01-10,KS,I - 3022 - cutting - machine,Normal mode,Process Machine,schleuniger,1.1 Controlled moved unprotected parts,NO,NO,DRX,Male,Laceration,Hand,4,Work related accident
+abdomen injury,SY,SousseMETS,2019-10-25,BX8,I - 7009 - commissioning,Normal mode,Other,Plan de travail,9.2 Manual work requiring a low level of physical strength,NO,NO,DRX,Male,Abrasion,Hand,3,Work related accident
+eye injury,ES,SousseMETS,2019-11-25,KS,E - 3002 cutting - wire,Normal mode,Other,,9.2 Manual work requiring a low level of physical strength,NO,YES,DRX,Female,Bruise,Eye,7,Work related accident
+hand injury,ES,SousseMETS,2019-11-06,BX8,I - 4008 - assembly,Normal mode,Other,,9.2 Manual work requiring a low level of physical strength,NO,YES,DRX,Female,Bruise,Hand,26,Work related accident
+eye injury,ES,SousseMETS,2019-11-29,BX8,E - 3001 skinning_/_strip_/_removing - removal - wire_insulation,Normal mode,Other,,1.4 Uncontrolled moving parts,NO,YES,DRX,Female,Bruise,Eye,8,Work related accident
+foot injury,ES,SousseMETS,2019-11-11,Logistics,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Bruise,Leg,18,Work related accident
+eye injury,ES,SousseMETS,2019-11-19,BX8,I - 8002 - preparation_raw_materials_/_components,Normal mode,Other,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirement, insufficient break rooms, sanitary rooms",NO,YES,DRX,Male,Bruise,Eye,4,Work related accident
+Staple injury,IS,SousseUATS,2019-04-29,,I - 4022 - staple,Normal mode,Tools / Utilities,Staple gun,4.1 Infections,NO,NO,DRX,Male,Stab injury,Hand,6,Work related accident
+Accident by door,IS,SousseUATS,2019-05-13,IE,Other,Normal mode,Other,Porte,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirement, insufficient break rooms, sanitary rooms",NO,NO,DRX,Male,Cut,Eye,8,Work related accident
+knee injury,IS,SousseUATS,2019-01-07,Production,-,Normal mode,Other,Steps,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Female,Sprain / Strain,Leg,11,Work related accident
+lumbago,IS,SousseUATS,2019-08-20,Production,I - 1007 - extrusion - back-pressing,Normal mode,Other,,"1.5 Falling, slipping, stumbling, tripping",NO,NO,DRX,Male,Other,Body,9,Work related accident
+accident with the leather mold,IS,SousseUATS,2019-08-01,Production,I - 3002 - cutting - leather,Normal mode,Metal Working Machine,cutting mold,1.1 Controlled moved unprotected parts,NO,YES,DRX,Male,Abrasion,Hand,3,Work related accident
+wrong move,IS,SousseUATS,2019-10-21,Production,I - 1021 - injection_compression_molding,Normal mode,Conveyor System / Robot,Mold of foam injection,"9.1 Lifting, holding, carrying or pulling, pushing",NO,NO,DRX,Female,Sprain / Strain,Hand,4,Work related accident
+overturning of the product transport trolley,IS,SousseUATS,2019-12-18,Production,I - 4022 - staple,Normal mode,Tools / Utilities,product transport trolley,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirement, insufficient break rooms, sanitary rooms",NO,NO,DRX,Male,Sprain / Strain,Arm,5,Work related accident
+deep wound on the forehead,Electric,ElJem,2020-04-02,MR,Other,Maintenance,Conveyor System / Robot,Baubrettbeförderer,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",YES,YES,DRX,Male,Cut,Head,6,Work related accident
+eye injury,Electric,ElJem,2020-03-02,MM,E-Pre Assembly - Detail Planning Group DPG,Normal mode,Other,Baubrett,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Bruise,Eye,5,Work related accident
+Dorsalgie aigue,Electric,ElJem,2020-07-02,Methall,Other,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Male,Other,-,2,Work related accident
+traumatisme oculaire,Electric,ElJem,2020-02-19,MR,E-Assembly - Item number,Normal mode,-,,10.2 Work organization,NO,YES,DRX,Female,Other,Eye,8,Work related accident
+hand injury,Electric,ElJem,2020-02-27,MM,Other,Normal mode,,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",YES,YES,DRX,Male,Fracture,Hand,9,Work related accident
+Dorsalgie aigue,Electric,ElJem,2020-02-24,Spare parts storage,E-order picking - Customer order,Normal mode,-,,9.5 Working with increased exertion and/or applied strength,NO,YES,DRX,Male,Other,Body,17,Work related accident
+ankle injury,Electric,ElJem,2020-08-14,Production,Other,Normal mode,-,,1.6 Falls,NO,,DRX,Female,Sprain / Strain,Foot,12,Non-work related accident
+Bilateral temporal wound with stitches,Electric,ElJem,2020-07-24,Logistics,Logistics,Normal mode,-,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",NO,,DRX,Male,Stab injury,Head,7,Work related accident
+foot injury,Electric,ElJem,2020-08-17,outside building,Office,Normal mode,-,,1.6 Falls,YES,YES,DRX,Female,Sprain / Strain,Foot,21,Non-work related accident
+thumb injury,Electric,ElJem,2020-03-16,IR,Other,Normal mode,-,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Other,Hand,17,Work related accident
+frontal trauma,Electric,ElJem,2020-08-18,IR,I-Production step 3 - lamination and finishing processes - Production cell,Normal mode,-,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Cut,Head,13,Work related accident
+lumbago,Electric,ElJem,2020-07-12,Logistics,Logistics,Normal mode,-,,1.3 Transport and mobile work equipment,NO,YES,DRX,Male,Other,Body,3,Work related accident
+hand injury,Electric,ElJem,2020-11-20,MM,Other,Normal mode,-,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",NO,YES,DRX,Male,Sprain / Strain,Hand,7,Work related accident
+lumbago,Electric,ElJem,2020-03-12,IR,Logistics,Normal mode,-,,1.3 Transport and mobile work equipment,NO,YES,DRX,Male,Other,Body,14,Work related accident
+knee injury,Electric,ElJem,2020-11-20,IR,Other,Normal mode,-,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Sprain / Strain,Foot,15,Work related accident
+wrist injury,Electric,ElJem,2020-11-24,IR,Other,Normal mode,-,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Sprain / Strain,Hand,7,Work related accident
+hand injury,Electric,ElJem,2020-11-26,IR,Other,Normal mode,-,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Sprain / Strain,Hand,15,Work related accident
+shoulder injury,Electric,ElJem,2020-12-21,Logistics,Logistics,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,YES,DRX,Male,Other,Body,24,Work related accident
+ankle injury,Electric,ElJem,2020-12-18,Logistics,Logistics,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",YES,YES,DRX,Male,Other,Foot,21,Work related accident
+eye injury,Electric,Siliana,2020-02-18,ZSB,E-Cable Cutting - cable or cable-set,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,NO,DRX,Female,Other,Eye,10,Non-work related accident
+Leg injury,Electric,Siliana,2020-02-17,Production,I-Production step 5 - sequenced assembly - Production island,Normal mode,Work place / paths,,1.6 Falls,YES,NO,DRX,Female,Stab injury,Foot,7,Non-work related accident
+hand injury,Electric,Siliana,2020-02-17,IR,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",NO,NO,DRX,Female,Other,Hand,1,Non-work related accident
+Leg injury,Electric,Siliana,2020-01-22,Production,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",NO,NO,DRX,Female,Fracture,Foot,5,Non-work related accident
+Leg injury,Electric,Siliana,2020-04-02,Logistics,Logistics,Normal mode,-,,1.3 Transport and mobile work equipment,YES,YES,DRX,Male,Laceration,Foot,1,Work related accident
+Loss of Balance and Injury,Electric,Siliana,2020-02-28,Production,Logistics,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,NO,DRX,Male,Other,Body,5,Work related accident
+Leg injury,Electric,Siliana,2020-05-03,IR,Other,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,NO,DRX,Female,Fracture,Foot,10,Non-work related accident
+Head injury,Electric,Siliana,2020-12-03,Logistics,Other,Normal mode,-,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",NO,NO,DRX,Female,Fracture,Foot,10,Non-work related accident
+Head injury,Electric,Siliana,2020-03-26,SI,Other,Normal mode,-,,-,YES,NO,DRX,Female,Other,Head,1,Non-work related accident
+hand injury,Electric,Siliana,2020-05-20,ZSB,Other,Normal mode,-,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",NO,NO,DRX,Female,Other,Head,6,Non-work related accident
+back injury,Electric,Siliana,2020-05-18,KS,Other,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,NO,DRX,Male,Other,Body,7,Non-work related accident
+hand injury,Electric,Siliana,2020-05-06,Production,Other,Normal mode,-,,1.4 Parts with uncontrolled movements,YES,NO,DRX,Male,Bruise,Hand,3,Work related accident
+Falling leading to Injury,Electric,Siliana,2020-05-26,Logistics,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",YES,NO,DRX,Female,Other,Leg,3,Work related accident
+hand injury,Electric,Siliana,2020-02-15,Quality,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",NO,NO,DRX,Female,Fracture,Arm,30,Non-work related accident
+Mouth injury,Electric,Siliana,2020-09-06,MR,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",YES,NO,DRX,Female,Other,Internal organs,6,Non-work related accident
+Head injury,Electric,Siliana,2020-04-06,Production,Other,Normal mode,-,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",YES,NO,DRX,Female,Other,Head,3,Work related accident
+Head injury,Electric,Siliana,2020-03-06,MM,Other,Normal mode,-,,1.3 Transport and mobile work equipment,YES,YES,DRX,Female,Other,Head,3,Work related accident
+Head injury,Electric,Siliana,2020-10-06,MR,Other,Normal mode,-,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",YES,NO,DRX,Female,Other,Head,3,Work related accident
+shoulder injury,Electric,Siliana,2020-06-19,Production,I-Production step 5 - sequenced assembly - Production island,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",YES,NO,DRX,Female,Sprain / Strain,Body,8,Work related accident
+Leg injury,Electric,Siliana,2020-06-16,Logistics,Other,Normal mode,-,,1.4 Parts with uncontrolled movements,NO,NO,DRX,Male,Bruise,Hand,3,Work related accident
+Loss of balance leading to injury,Electric,Siliana,2020-06-23,Logistics,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Male,Abrasion,Body,5,Work related accident
+Falling leading to Injury,Electric,Siliana,2020-06-23,ENETT,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",YES,NO,DRX,Female,Other,Eye,2,Work related accident
+Falling leading to Injury,Electric,Siliana,2020-06-30,Production,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",YES,NO,DRX,Female,Other,Leg,2,Non-work related accident
+Falling leading to Injury,Electric,Siliana,2020-06-29,Logistics,Other,Normal mode,-,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",NO,YES,DRX,Male,Bruise,Leg,3,Work related accident
+Loss of balance leading to injury,Electric,Siliana,2020-06-24,Production,Other,Normal mode,-,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",YES,NO,DRX,Female,Other,Head,3,Work related accident
+Falling leading to Injury,Electric,Siliana,2020-06-16,Production,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",YES,NO,DRX,Female,Other,Leg,3,Work related accident
+hand injury,Electric,Siliana,2020-07-07,KS,E-Cable Cutting - cable or cable-set,Normal mode,Tools / Utilities,KOMAX,"9.1 Lifting, holding, carrying or pulling, pushing",NO,NO,DRX,Female,Abrasion,Hand,10,Work related accident
+eye injury,Electric,Siliana,2020-07-22,VK,E-Cable Cutting - cable or cable-set,Normal mode,-,,-,NO,YES,DRX,Male,Sprain / Strain,Eye,10,Work related accident
+back injury,Electric,Siliana,2020-07-16,KS,-,Normal mode,Work place / paths,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",NO,YES,DRX,Female,Sprain / Strain,Foot,3,Work related accident
+back injury,Electric,Siliana,2020-07-22,KS,Logistics,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Sprain / Strain,Body,7,Work related accident
+ankle injury,Electric,Siliana,2020-07-16,Production,I-Production step 1 -  carrier + pattern Production - technology shop,Normal mode,-,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",NO,YES,DRX,Female,Sprain / Strain,Foot,3,Work related accident
+Leg injury,Electric,Siliana,2020-05-08,IR,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",NO,NO,DRX,Female,Burn/Scald,Leg,7,Non-work related accident
+hand injury,Electric,Siliana,2020-08-05,ZSB,I-Production step 2 - PrProductionration processes - technologie shop,Normal mode,-,,9.2 Manual work requiring a low level of physical strength,NO,NO,DRX,Female,Burn/Scald,Hand,5,Work related accident
+fracture suite au chute d'objet,Interior,SousseUATS,2020-05-13,Logistics,Logistics,Normal mode,Tools / Utilities,couvercle de rProductionrk en bois,1.6 Falls,NO,NO,DRX,Male,Fracture,Hand,48,Work related accident
+Accident du trajet,Interior,SousseUATS,2020-09-14,outside building,-,,-,-,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Sprain / Strain,Leg,8,Non-work related accident
+Projection of the chemical product,Interior,SousseUATS,2020-10-28,Foaming area,Other,Maintenance,Conveyor System / Robot,Foam injection robot,3.3 Skin contact with hazardous substances,NO,NO,DRX,Male,Chemical burn,Eye,5,Work related accident
+ankle injury,Electric,SousseMETS,2020-09-01,Logistics,E-order picking - Customer order,Normal mode,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Sprain / Strain,Foot,1,Work related accident
+neck injury,Electric,SousseMETS,2020-01-28,Production,I-Production step 4 - bulk assembly - Production island,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Bruise,Body,3,Work related accident
+hand injury,Electric,SousseMETS,2020-02-20,VK,I-Production step 1 -  carrier + pattern Production - technology shop,Normal mode,Other,machine coupe schlauch N10741/002,1.1 Unprotected parts with controlled movements,NO,NO,DRX,Female,Cut,Hand,30,Work related accident
+lumbago,Electric,SousseMETS,2020-02-28,Logistics,E-order picking - Customer order,Normal mode,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Other,Body,6,Work related accident
+hand injury,Electric,SousseMETS,2020-01-28,KS,E-Cable Cutting - cable or cable-set,Normal mode,Other,Cutting machine,1.2 Parts with dangerous surfaces,NO,NO,DRX,Male,Sprain / Strain,Hand,30,Work related accident
+wrist injury,Electric,SousseMETS,2020-05-13,BX8,I-Production step 4 - bulk assembly - Production island,Normal mode,-,,-,NO,,DRX,Female,Stab injury,Hand,10,Work related accident
+foot injury,Electric,SousseMETS,2020-04-05,outside building,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Sprain / Strain,Foot,15,Non-work related accident
+foot injury,Electric,SousseMETS,2020-07-05,outside building,Other,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Sprain / Strain,Foot,10,Non-work related accident
+hand injury,Electric,SousseMETS,2020-12-08,KS,E-Cable Cutting - cable or cable-set,Normal mode,Processing Machines,Schleuniger,1.1 Unprotected parts with controlled movements,NO,,DRX,Female,Stab injury,Hand,8,Work related accident
+leg injury,Electric,SousseMETS,2020-12-08,BX8,Other,Normal mode,-,,-,NO,,DRX,Female,Sprain / Strain,Foot,10,Non-work related accident
+hand injury,Electric,SousseMETS,2020-08-14,BX8,E-Cable Cutting - cable or cable-set,Normal mode,Lifting Gear / conveyors,pistolet,1.6 Falls,NO,,DRX,Male,Fracture,Hand,15,Work related accident
+back injury,Electric,SousseMETS,2020-10-07,BX8,E-order picking - Customer order,Malfunction,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Sprain / Strain,Body,5,Work related accident
+eye injury,Electric,SousseMETS,2020-09-30,BX8,E-Staging Assembly - Item number,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Female,Other,Eye,6,Work related accident
+foot injury,Electric,SousseMETS,2020-10-05,Logistics,Logistics,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Other,Body,6,Work related accident
+foot injury,Electric,SousseMETS,2020-09-09,BX8,E-order picking - Customer order,Normal mode,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Bruise,Foot,6,Work related accident
+hand injury,Electric,SousseMETS,2020-08-14,BX8,E-Cable Cutting - cable or cable-set,Normal mode,Lifting Gear / conveyors,pistolet,1.4 Uncontrolled moving parts,NO,,DRX,Male,Fracture,Hand,15,Work related accident
+back injury,Electric,SousseMETS,2020-08-26,FBB,Other,Normal mode,-,,9.2 Manual work requiring a low level of physical strength,NO,,DRX,Male,Other,Body,10,Work related accident
+leg injury,Electric,SousseMETS,2020-09-28,Logistics,Logistics,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Other,Leg,6,Non-work related accident
+chute del´escabeau,Electric,SousseMETS,2020-10-28,Zeta,Other,Maintenance,Work place / paths,,9.3 Forced posture,NO,,DRX,Male,Abrasion,Body,15,Work related accident
+hand injury,Electric,SousseMETS,2020-11-03,Production,I-Production step 1 -  carrier + pattern Production - technology shop,Normal mode,-,,-,NO,NO,DRX,Male,Abrasion,Hand,8,Work related accident
+hand injury,Electric,SousseMETS,2020-03-12,FBB,E-Commissioning - Customer order,Normal mode,-,,1.2 Parts with dangerous surfaces,NO,NO,DRX,Female,Laceration,Hand,4,Non-work related accident
+back injury,Electric,SousseMETS,2020-02-24,Logistics,E-Commissioning - Customer order,Normal mode,-,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Bruise,Body,4,Work related accident
+hand injury,Electric,SousseMETS,2020-05-27,Zeta,,,,,"1.5 Falling, slipping, stumbling, tripping",NO,NO,DRX,Female,Sprain / Strain,Hand,18,Non-work related accident
+body injury,Electric,SousseMETS,2020-06-29,BX8,E-Staging Assembly - FP-Number,Normal mode,-,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Female,Other,Body,8,Work related accident
+hand injury,Electric,SousseMETS,2020-02-06,BX8,E-Final Assembly - Customer order,Normal mode,-,,-,NO,,DRX,Male,Fracture,Hand,30,Work related accident
+back injury,Electric,SousseMETS,2020-03-07,Zeta,Other,Normal mode,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Other,Body,8,Non-work related accident
+foot injury,Electric,SousseMETS,2020-11-17,BX8,E-Commissioning - Customer order,Normal mode,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Bruise,Foot,3,Work related accident
+hand injury,Electric,SousseMETS,2020-06-19,WC,Other,Normal mode,Tools / Utilities,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Fracture,Hand,30,Non-work related accident
+hand injury,Electric,SousseMETS,2020-02-20,VK,I-Production step 1 -  carrier + pattern Production - technologie shop,Normal mode,Other,machine coupe schlauch N10741/002,1.1 Unprotected parts with controlled movements,NO,NO,DRX,Female,Cut,Hand,30,Work related accident
+back injury,Electric,SousseMETS,2020-06-22,BX8,,Normal mode,-,,-,NO,,DRX,Male,Other,Body,7,Non-work related accident
+back injury,Electric,SousseMETS,2020-06-22,FBB,Other,Normal mode,-,,9.2 Manual work requiring a low level of physical strength,NO,,DRX,Male,Other,Body,15,Work related accident
+knee injury,Electric,SousseMETS,2020-10-22,Logistics,Logistics,Normal mode,-,,1.6 Falls,NO,,DRX,Male,Bruise,Foot,15,Work related accident
+Riaan Strydom,Interior,Rosslyn,2020-09-01,Maintenance,-,Maintenance,Other,,10.4 Work environment,NO,YES,DRX,Male,Fracture,Hand,16,Work related accident
+hand injury,Electric,ElJem,2021-02-19,IR,E-Assembly - Item number,Normal operation,-,,1.1 Unprotected parts with controlled movements,YES,YES,DRX,Female,Sprain / Strain,Hand,11,Work related accident
+eye injury,Electric,ElJem,2021-03-04,MM,E-Staging Pre-assembly - Detail Planning Group DPG,Normal operation,-,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Female,Other,Eye,3,Work related accident
+hand injury,Electric,ElJem,2021-03-10,IR,E-Assembly - Item number,Normal operation,-,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Sprain / Strain,Hand,5,Work related accident
+eye injury,Electric,ElJem,2021-03-11,IR,E-Assembly - Item number,Normal operation,,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Sprain / Strain,Eye,15,Work related accident
+frontal trauma,Electric,ElJem,2021-03-16,MM,E-Assembly - Item number,Normal operation,-,,1.2 Parts with dangerous surfaces,YES,NO,DRX,Female,Cut,Head,8,Work related accident
+hand injury,Electric,ElJem,2021-03-17,MR,E-Assembly - Item number,Normal operation,-,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Sprain / Strain,Hand,15,Work related accident
+hand injury,Electric,ElJem,2021-03-18,MM,E-Assembly - Item number,Normal operation,-,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Sprain / Strain,Hand,21,Work related accident
+hand injury,Electric,ElJem,2021-03-26,IR,E-Final Assembly - Customer order,Normal operation,,slippery ground,"1.5 Falling, slipping, stumbling, tripping",YES,YES,DRX,Female,Sprain / Strain,Hand,13,Non-work related accident
+hand injury,Electric,ElJem,2021-03-29,IR,E-Final Assembly - Customer order,Normal operation,-,slippery ground,1.2 Parts with dangerous surfaces,NO,YES,DRX,Female,Bruise,Hand,15,Work related accident
+hand injury,Electric,ElJem,2021-03-30,IR,E-Final Assembly - Customer order,Normal operation,,slippery ground,1.2 Parts with dangerous surfaces,NO,YES,DRX,Female,Bruise,Hand,22,Work related accident
+toe injury,Electric,ElJem,2021-04-06,changing room,Logistics,Normal operation,,metal support,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Bruise,Foot,22,Non-work related accident
+foot injury,Electric,ElJem,2021-04-22,outside building,E-Assembly - Item number,Normal operation,,marble,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Bruise,Foot,7,Non-work related accident
+hand injury,Electric,ElJem,2021-05-17,Logistics,E-Assembly - Item number,Normal operation,Metal Working Machine,rearing trolley,1.3 Transport and mobile work equipment,NO,YES,DRX,Male,Bruise,Hand,12,Work related accident
+Nose injury,Electric,ElJem,2021-05-19,Logistics,Logistics,Normal operation,,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Bruise,Nose,12,Work related accident
+shoulder injury,Electric,ElJem,2021-05-28,IR,E-Assembly - Item number,Normal operation,Tools / Utilities,cart,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Bruise,Body,3,Work related accident
+eye injury,Electric,ElJem,2021-06-17,IR,E-Assembly - Item number,Normal operation,,,9.2 Manual work requiring a low level of physical strength,YES,YES,DRX,Female,Bruise,Eye,3,Work related accident
+hand injury,Electric,ElJem,2021-07-07,IR,E-Assembly - Item number,Normal operation,,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Bruise,Hand,3,Work related accident
+back injury,Electric,ElJem,2021-07-13,IR,E-Assembly - Item number,Normal operation,,,9.3 Forced posture,YES,YES,DRX,Female,Bruise,Body,17,Work related accident
+hand injury,Electric,ElJem,2021-09-10,MR,E-Assembly - Item number,Normal operation,,KSK Branch,9.3 Forced posture,NO,NO,DRX,Male,Sprain / Strain,Arm,6,Work related accident
+Lumbar trauma,Electric,ElJem,2021-08-02,MR,E-Assembly - Item number,Normal operation,Tools / Utilities,Metal support of the water bottles,1.2 Parts with dangerous surfaces,NO,NO,DRX,Male,Bruise,Body,3,Work related accident
+ankle injury,Electric,ElJem,2021-09-24,IR,E-Assembly - Item number,Normal operation,,Palette,"1.5 Falling, slipping, stumbling, tripping",YES,NO,DRX,Female,Sprain / Strain,Foot,3,Work related accident
+epole injury,Electric,ElJem,2021-09-24,Logistics,Logistics,Normal operation,,Commission kit,"9.1 Lifting, holding, carrying or pulling, pushing",YES,NO,DRX,Male,Other,Hand,6,Work related accident
+hand injury,Electric,ElJem,2021-12-16,Logistics,Logistics,Normal operation,Metal Working Machine,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Fracture,Hand,16,Work related accident
+hand injury,Electric,ElJem,2021-12-09,MM,E-Final Assembly - Customer order,Normal operation,-,Gable,1.2 Parts with dangerous surfaces,YES,NO,DRX,Female,Bruise,Hand,7,Work related accident
+foot injury,Electric,Siliana,2021-01-08,MM,E-Staging Assembly - Item number,Normal operation,-,-,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Female,Other,Head,10,Non-work related accident
+Stumbling,Electric,Siliana,2021-02-02,ZSB,E-Assembly - Item number,Normal operation,-,,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Female,Sprain / Strain,Foot,5,Non-work related accident
+eye injury,Electric,Siliana,2021-02-08,ZSB,E-Assembly - Item number,Normal operation,-,,9.5 Working with increased exertion and/or  applied strength,NO,YES,DRX,Female,Bruise,Eye,15,Work related accident
+jets heurte,Electric,Siliana,2021-02-16,AB4,E-Final Assembly - Customer order,Normal operation,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Female,Bruise,Body,5,Work related accident
+Chute Escabo,Electric,Siliana,2021-02-16,Logistics,Logistics,Normal operation,,,1.6 Fall,NO,YES,DRX,Male,Other,Body,22,Work related accident
+Accident vestiaire,Electric,Siliana,2021-03-18,ZSB,Other,Normal operation,-,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Female,Cut,Body,3,Non-work related accident
+accident pistolet pneumatique,Electric,Siliana,2021-03-26,ZSB,E-Final Assembly - Customer order,Normal operation,Tools / Utilities,Pistolet pneumatique,1.4 Parts with uncontrolled movements,YES,NO,DRX,Female,Bruise,Head,7,Work related accident
+JET accident,Electric,Siliana,2021-04-08,Logistics,Logistics,Normal operation,-,,1.4 Parts with uncontrolled movements,NO,NO,DRX,Female,Bruise,Leg,5,Work related accident
+Accident surface de travail,Electric,Siliana,2021-04-15,MR,E-Final Assembly - Customer order,Normal operation,-,,1.2 Parts with dangerous surfaces,NO,NO,DRX,Female,Other,Body,5,Work related accident
+accident chaussures inappropriées,Electric,Siliana,2021-04-21,MR,Other,Normal operation,,,"1.5 Falling, slipping, stumbling, tripping",,,DRX,Female,Sprain / Strain,Foot,7,Non-work related accident
+Chute suite à un vertige,Electric,Siliana,2021-04-22,Production,Logistics,Normal operation,-,,"1.5 Falling, slipping, stumbling, tripping",YES,,DRX,Male,Bruise,Head,7,Non-work related accident
+accident suite à mouvement anteflexion,Electric,Siliana,2021-04-29,Production,E-Final Assembly - Customer order,Normal operation,-,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Sprain / Strain,Body,3,Work related accident
+chute au niveau de la porte outside building,Electric,Siliana,2021-04-30,outside building,,,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Sprain / Strain,Foot,7,Non-work related accident
+Chute à Coté bawbrett,Electric,Siliana,2021-01-28,IR,E-Assembly - Item number,Normal operation,-,,"1.5 Falling, slipping, stumbling, tripping",,,DRX,Female,Bruise,Body,5,Work related accident
+support metallique heurt,Electric,Siliana,2021-02-18,MM,Logistics,Normal operation,-,,1.2 Parts with dangerous surfaces,NO,,DRX,Female,Bruise,Head,3,Work related accident
+accident support metallique,Electric,Siliana,2021-02-19,MM,Logistics,Normal operation,-,,1.2 Parts with dangerous surfaces,NO,,DRX,Male,Bruise,Head,3,Work related accident
+accident porte outside building,Electric,Siliana,2021-05-11,outside building,-,Normal operation,-,,"1.1 Controlled, moved unprotected parts",NO,,DRX,Female,Fracture,Arm,30,Non-work related accident
+accident cariot elevateur,Electric,Siliana,2021-05-29,,Other,Normal operation,Work place / paths,chariot elevateur,1.3 Transport and mobile work equipment,NO,,DRX,Male,Bruise,Leg,5,Work related accident
+accident levage bobine de cable,Electric,Siliana,2021-06-29,KS,E-Cable Cutting - cable or cable-set,Normal operation,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,YES,DRX,Male,Sprain / Strain,Body,5,Work related accident
+Accident  JET heurt,Electric,Siliana,2021-07-07,Logistics,Logistics,Normal operation,-,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Female,Bruise,Body,5,Work related accident
+neck injury,Electric,Siliana,2021-07-09,Administration,Other,Normal operation,,,1.2 Parts with dangerous surfaces,NO,,DRX,Male,Cut,Hand,10,Work related accident
+accident,Electric,Siliana,2021-07-08,Logistics,Logistics,Normal operation,,,1.2 Parts with dangerous surfaces,YES,,DRX,Male,Bruise,Head,7,Work related accident
+Chute-changement de position debout assis,Electric,Siliana,2021-09-21,VK,E-Cable Cutting - cable or cable-set,Normal operation,,,1.6 Fall,NO,YES,DRX,Female,Bruise,Arm,5,Work related accident
+chute- repak mal placé,Electric,Siliana,2021-11-12,KS,E-Cable Cutting - cable or cable-set,Normal operation,,,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Female,Bruise,Head,3,Work related accident
+bobine heurte,Electric,Siliana,2021-11-15,Logistics,Logistics,Normal operation,,,1.2 Parts with dangerous surfaces,NO,YES,DRX,Male,Bruise,Head,10,Work related accident
+Ameise heurt,Electric,Siliana,2021-11-22,Logistics,Logistics,Normal operation,-,,1.3 Transport and mobile work equipment,NO,YES,DRX,Male,Fracture,Leg,45,Work related accident
+knee injury,Interior,SousseUATS,2021-02-10,Annex KSIBA,Logistics,Normal operation,Power / Work machine,,1.1 Unprotected parts with controlled movements,NO,NO,DRX,Male,Fracture,Leg,135,Work related accident
+Fall due to a false step,Interior,SousseUATS,2021-03-08,outside building,-,Normal operation,-,-,"1.5 Falling, slipping, stumbling, tripping",NO,NO,DRX,Male,Fracture,Foot,23,Non-work related accident
+Wound with a blade,Interior,SousseUATS,2021-11-30,Production,Other,Testing mode,-,-,1.2 Parts with dangerous surfaces,NO,NO,DRX,Male,Stab injury,Hand,13,Non-work related accident
+body injury,Interior,SousseUATS,2021-12-20,Production,Other,Normal operation,Conveyor System / Robot,_,1.3 Equipement de transport et de travail mobile,NO,NO,DRX,Male,Bruise,Body,11,Work related accident
+leg injury,Electric,SousseMETS,2021-03-02,Logistics,Logistics,Normal operation,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Sprain / Strain,Leg,14,Work related accident
+Mouth injury,Electric,SousseMETS,2021-03-03,TPT,E-Assembly - Item number,Normal operation,-,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",NO,NO,DRX,Male,Other,,7,Work related accident
+back injury,Electric,SousseMETS,2021-03-18,Logistics,Logistics,Normal operation,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Other,Body,11,Work related accident
+hand injury,Electric,SousseMETS,2021-04-15,Logistics,Logistics,Normal operation,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Other,Body,7,Work related accident
+body injury,Electric,SousseMETS,2021-04-15,KS,E-Cable Cutting - cable or cable-set,Normal operation,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Other,Body,30,Work related accident
+hand injury,Electric,SousseMETS,2021-04-27,Zeta,Other,Normal operation,,,,NO,,DRX,Male,Fracture,Hand,30,Work related accident
+back injury,Electric,SousseMETS,2021-05-03,TPT,I-Production step 2 - Prefabrication processes - technology shop,Normal operation,-,-,9.3 Forced posture,NO,NO,DRX,Male,Other,Body,20,Work related accident
+hand injury,Electric,SousseMETS,2021-05-19,VK,Other,Normal operation,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Sprain / Strain,Arm,11,Work related accident
+finger injury,Electric,SousseMETS,2021-05-25,BX8,I-Production step 4 - bulk assembly - production island,Normal operation,,,1.2 Parts with dangerous surfaces,NO,,DRX,Male,Cut,Hand,8,Work related accident
+hip injury,Electric,SousseMETS,2021-05-28,BX8,Other,Normal operation,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Bruise,Body,6,Work related accident
+hand injury,Electric,SousseMETS,2021-06-02,KS,E-Cable Cutting - cable or cable-set,Malfunction,,,1.2 Parts with dangerous surfaces,NO,,DRX,Male,Stab injury,Hand,8,Work related accident
+knee injury,Electric,SousseMETS,2021-06-14,Logistics,Logistics,Normal operation,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Sprain / Strain,Leg,21,Work related accident
+hand injury,Electric,SousseMETS,2021-06-22,Zeta,Other,Normal operation,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Sprain / Strain,Hand,21,Work related accident
+foot injury,Electric,SousseMETS,2021-07-02,KS,Other,Normal operation,,,3.3 Skin contact with hazardous substances,NO,,DRX,Male,Stab injury,Foot,8,Work related accident
+hand injury,Electric,SousseMETS,2021-07-14,BX8,E-Staging Assembly - Item number,Normal operation,,,9.2 Manual work requiring a low level of physical strength,NO,NO,DRX,Female,Bruise,Hand,10,Work related accident
+back injury,Electric,SousseMETS,2021-07-29,BX8,Other,Normal operation,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Bruise,Body,10,Work related accident
+foot injury,Electric,SousseMETS,2021-08-30,BX8,Other,Normal operation,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Bruise,Body,17,Work related accident
+back injury,Electric,SousseMETS,2021-09-16,BX8,E-Final Assembly - Customer order,Normal operation,Work place / paths,,"1.5 Falling, slipping, stumbling, tripping",NO,YES,DRX,Female,Abrasion,Body,12,Work related accident
+eye injury,Electric,SousseMETS,2021-09-14,BX8,E-Final Assembly - Customer order,Normal operation,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Female,Stab injury,Eye,8,Work related accident
+head injury,Electric,SousseMETS,2021-09-30,Logistics,Logistics,Normal operation,,,,NO,,DRX,Female,Stab injury,Head,7,Work related accident
+eye injury,Electric,SousseMETS,2021-11-16,BX8,E-Final Assembly - Customer order,Normal operation,,,-,NO,,DRX,Female,Stab injury,Eye,7,Work related accident
+foot injury,Electric,SousseMETS,2021-11-17,BX8,E-Final Assembly - Customer order,Normal operation,,,-,NO,,DRX,Female,Bruise,Leg,8,Work related accident
+knee injury,Electric,SousseMETS,2021-11-19,Logistics,Other,Normal operation,,,-,NO,,DRX,Female,Bruise,Leg,6,Work related accident
+knee injury,Electric,SousseMETS,2021-11-19,BX8,Other,Normal operation,Conveyor System / Robot,,1.2 Parts with dangerous surfaces,NO,NO,DRX,Female,Stab injury,Hand,6,Work related accident
+Elbow  Injury,Electric,SousseMETS,2021-11-25,BX8,Other,Normal operation,,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",NO,,DRX,Female,Sprain / Strain,Arm,21,Work related accident
+Elbow  Injury,Electric,SousseMETS,2021-11-26,BX8,Other,Normal operation,,,"8.5 Insufficient room to move at the workplace, unfavorable workplace requirements, insufficient break rooms, sanitary rooms",NO,,DRX,Female,Sprain / Strain,Arm,5,Work related accident
+finger injury,Electric,SousseMETS,2021-12-01,Logistics,Logistics,Normal operation,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Female,Other,Hand,12,Work related accident
+foot injury,Electric,ElJem,2022-01-07,Video IR,E-Assembly - Item number,,Work place / stairs,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,NO,DRX,Female,Sprain / Strain,Foot,3,Work related accident
+knee injury,Electric,ElJem,2022-01-17,IR,E-Assembly - Item number,,Work place / stairs,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,NO,DRX,Male,Sprain / Strain,Leg,13,Work related accident
+Pelvic trauma,Electric,ElJem,2022-04-05,WC,Other,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",YES,,DRX,Female,Sprain / Strain,Foot,5,Non-work related accident
+Head trauma,Electric,ElJem,2022-04-19,MM,Logistics,,Lifting Gear / conveyors,,4.2 - Parts with hazardous surfaces,NO,YES,DRX,Male,Sprain / Strain,Head,2,Work related accident
+hand injury,Electric,ElJem,2022-01-01,,,,,,,,,,,,,6,Work related accident
+shoulder injury,Electric,ElJem,2022-05-13,IR06,Other,,,,4.2 - Parts with hazardous surfaces,YES,,DRX,Male,Laceration,Body,9,Work related accident
+hand injury,Electric,ElJem,2022-06-21,Production,Other,,,,3.1 - Heavy physical work,NO,,DRX,Male,Laceration,Hand,4,Work related accident
+eye injury,Electric,ElJem,2022-07-14,IR04,E-Pre Assembly - Detail Planning Group DPG,,,,4.2 - Parts with hazardous surfaces,YES,YES,DRX,Female,Other,Eye,3,Work related accident
+hand injury,Electric,ElJem,2022-07-19,IR,E-Assembly - Item number,,,,1.2 - Workplace-related operating instruction,NO,YES,DRX,Female,Cut,Hand,7,Work related accident
+Trauma to the right hypochondrium,Electric,ElJem,2022-08-17,Methalle,Logistics,,Industrial truck,,"2.3 - Falling on even ground, slipping, stumbling, twisting one’s ankle, missteps",NO,YES,DRX,Male,Sprain / Strain,,22,Work related accident
+finger injury,Electric,ElJem,2022-08-29,Logistics,Logistics,,,,3.8 - Impeded handling of work equipment,NO,YES,DRX,Male,Fracture,Hand,22,Work related accident
+ankle injury,Electric,ElJem,2022-09-01,MM,Logistics,,,,4.2 - Parts with hazardous surfaces,NO,YES,DRX,Male,Sprain / Strain,Foot,9,Work related accident
+hand injury,Electric,ElJem,2022-09-06,MM,Logistics,,,,4.2 - Parts with hazardous surfaces,NO,YES,DRX,Male,Sprain / Strain,Hand,5,Work related accident
+knee injury,Electric,ElJem,2022-09-16,IR,E-Assembly - Item number,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",YES,YES,DRX,Female,Other,Leg,3,Work related accident
+hand injury,Electric,ElJem,2022-09-20,IR04,E-Pre Assembly - Detail Planning Group DPG,,,,4.4 - Parts moving uncontrolled,NO,YES,DRX,Female,Fracture,Hand,9,Work related accident
+hand injury,Electric,ElJem,2022-11-02,Production,E-Assembly - Item number,,,,4.2 - Parts with hazardous surfaces,NO,YES,DRX,Male,Other,Hand,8,Work related accident
+hand injury,Electric,ElJem,2022-10-20,MR,E-Assembly - Item number,,,,4.2 - Parts with hazardous surfaces,NO,YES,DRX,Female,Sprain / Strain,Hand,11,Work related accident
+hand injury,Electric,ElJem,2022-10-27,MM,E-Assembly - Item number,,,,4.3 - Means of transport,NO,YES,DRX,Female,Other,Hand,9,Work related accident
+eye injury,Electric,ElJem,2022-10-27,IR,E-Assembly - Item number,,,,1.2 - Workplace-related operating instruction,NO,YES,DRX,Male,Other,Eye,2,Work related accident
+stepladder fall,Electric,Siliana,2022-03-24,MM,Other,,-,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,,DRX,Male,Sprain / Strain,Foot,7,Work related accident
+Injury following bawbret uprising,Electric,Siliana,2022-04-12,FBB,Other,,Lifting Gear / conveyors,,3.1 - Heavy physical work,NO,,DRX,Male,Sprain / Strain,Body,5,Work related accident
+Injury following the fall of a trolley,Electric,Siliana,2022-06-07,Logistics,Logistics,,Tools / Utilities,,11.2 - Humans,NO,,DRX,Male,Other,Arm,6,Work related accident
+stepladder fall,Electric,Siliana,2022-06-10,Logistics,Logistics,,Work place / stairs,,1.6 Falls,NO,,DRX,Male,Sprain / Strain,Hand,5,Work related accident
+Step ladder fall,Electric,Siliana,2022-11-09,Production,Other,,,Ladders,1.6 Falls,NO,,DRX,Male,Sprain / Strain,Foot,25,Work related accident
+hand injury,Electric,Siliana,2022-11-16,Production,Other,,,,1.6 Falls,NO,,DRX,Male,Sprain / Strain,Hand,5,Work related accident
+head pain and swelling,Electric,Siliana,2022-01-07,IR 326,Other,,,,11.1 Other hazards caused by people,NO,,DRX,Female,Crush/bruise,Head,5,Work related accident
+eye injury,Electric,Siliana,2022-01-27,MR,Other,,,,4.1 Infections,NO,,DRX,Female,Chemical burn,Eye,7,Work related accident
+foot injury,Interior,SousseUATS,2022-06-03,Production,Other,,Lifting Gear / conveyors,,3.1 - Heavy physical work,NO,NO,DRX,Female,Fracture,Foot,15,Work related accident
+limb injury,Interior,SousseUATS,2022-08-16,Production,Other,,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,NO,DRX,Male,Sprain / Strain,Body,11,Work related accident
+knee injury,Interior,SousseUATS,2022-12-02,Production,Other,,,,"1.5 Falling, slipping, stumbling, tripping",NO,NO,DRX,Female,Sprain / Strain,Leg,19,Work related accident
+hand injury,Electric,SousseMETS,2022-01-05,KS,E-Cable Cutting - cable or cable-set,,Power / Work Machine,Machine 061 schluniger,1.2 - Parts with dangerous surfaces,NO,,DRX,Male,Stab injury,Hand,6,Work related accident
+hand injury,Electric,SousseMETS,2022-01-25,Logistics,Logistics,,,,3.1 - Heavy physical work,YES,NO,DRX,Male,Sprain / Strain,Arm,6,Work related accident
+back injury,Electric,SousseMETS,2022-01-28,TPT,E-Assembly - Item number,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,NO,DRX,Male,Other,Body,15,Work related accident
+Lumbar trauma,Electric,SousseMETS,2022-01-31,Production,E-Assembly - Item number,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,,DRX,Female,Other,Body,7,Work related accident
+eye injury,Electric,SousseMETS,2022-02-22,Production,E-Assembly - Item number,,,,4.4 - Parts moving uncontrolled,NO,,DRX,Female,Other,Eye,5,Work related accident
+Stab wound,Electric,SousseMETS,2022-01-03,BX8,,,-,,,NO,,DRX,Female,-,Foot,26,Non-work related accident
+ankle injury,Electric,SousseMETS,2022-03-15,outside Building,Other,,,,4.4 - Parts moving uncontrolled,NO,,DRX,Female,Other,Foot,14,Non-work related accident
+shoulder injury,Electric,SousseMETS,2022-03-21,outside Building,Other,,,,4.3 - Means of transport,NO,,DRX,Female,Other,Hand,19,Non-work related accident
+back injury,Electric,SousseMETS,2022-04-20,KS,Other,,,,3.1 - Heavy physical work,NO,,DRX,Female,Other,Body,13,Work related accident
+knee injury,Electric,SousseMETS,2022-04-21,Outside Building,Other,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,,DRX,Male,Crush/bruise,Leg,7,Non-work related accident
+foot injury,Electric,SousseMETS,2022-04-22,KS,Other,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,,DRX,Male,Crush/bruise,Foot,13,Work related accident
+hand injury,Electric,SousseMETS,2022-05-18,Logistics,Logistics,,,,4.2 - Parts with hazardous surfaces,NO,,DRX,Male,Stab wound,Hand,6,Work related accident
+hand injury,Electric,SousseMETS,2022-05-12,VK,E-Cable Cutting - cable or cable-set,,,,11.2 - Humans,NO,,DRX,Female,Crush/bruise,Hand,11,Work related accident
+hand injury,Electric,SousseMETS,2022-05-06,KS,E-Cable Cutting - cable or cable-set,,,Schleuniger CrimpCenter 63,1.2 - Workplace-related operating instruction,NO,,DRX,Male,Crush/bruise,Hand,12,Work related accident
+shoulder injury,Electric,SousseMETS,2022-05-18,Outside Building,Other,,,,4.3 - Means of transport,NO,,DRX,Female,Other,Hand,8,Non-work related accident
+foot injury,Electric,SousseMETS,2022-05-20,VK,Other,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,,DRX,Female,Other,Foot,15,Non-work related accident
+Leg injury,Electric,SousseMETS,2022-05-30,BX8,Other,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,,DRX,Male,Other,Foot,11,Non-work related accident
+Inguinal Hernia Injury,Electric,SousseMETS,2022-06-07,Logistics,Logistics,,,,3.1 - Heavy physical work,YES,,DRX,Male,Other,Leg,8,Work related accident
+toe injury,Electric,SousseMETS,2022-06-08,Logistics,Logistics,,,,2.2 - Traffic routes,NO,,DRX,Male,Crush/bruise,Foot,8,Work related accident
+eye injury,Electric,SousseMETS,2022-07-05,BX8,Other,,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Stab injury,Eye,4,Work related accident
+hand injury,Electric,SousseMETS,2022-08-11,BX8,E-Final Assembly - Customer order,,,,10.4 Work environment,NO,,DRX,Female,Crush/bruise,Hand,11,Work related accident
+Nose Injury,Electric,SousseMETS,2022-08-17,Logistics,Other,,,,1.3 Transport and mobile work equipment,YES,,DRX,Female,Crush/bruise,Head,11,Non-work related accident
+foot injury,Electric,SousseMETS,2022-08-23,BX8,Other,,,,"1.5 Falling, slipping, stumbling, tripping",YES,,DRX,Female,Crush/bruise,Foot,15,Work related accident
+shoulder injury,Electric,SousseMETS,2022-08-23,KS,,,,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Crush/bruise,Body,11,Non-work related accident
+Slipping caused by a fall from the stairs,Electric,SousseMETS,2022-09-05,TPT,Other,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",YES,NO,DRX,Male,Sprain / Strain,Body,41,Work related accident
+head injury,Electric,SousseMETS,2022-09-02,BX8,E-Final Assembly - Customer order,,Tools / Utilities,Pistole,1.2 Parts with dangerous surfaces,NO,,DRX,Male,Stab injury,Head,6,Work related accident
+back injury,Electric,SousseMETS,2022-09-08,VK,Other,,Work place / paths,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Crush/bruise,Body,10,Work related accident
+finger injury,Electric,SousseMETS,2022-09-19,BX8,E-Final Assembly - Customer order,,-,,1.4 Parts with uncontrolled movements,NO,,DRX,Male,Crush/bruise,Hand,15,Work related accident
+foot injury,Electric,SousseMETS,2022-09-28,Outside Building,Other,,,,4.3 - Means of transport,NO,,DRX,Female,Other,Foot,11,Non-work related accident
+Head injury,Electric,SousseMETS,2022-09-28,Zeta,,,-,,1.4 Parts with uncontrolled movements,NO,,DRX,Male,Crush/bruise,Head,6,Work related accident
+back injury,Electric,SousseMETS,2022-10-26,BX8,Other,,-,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Other,Body,6,Work related accident
+eye injury,Electric,SousseMETS,2022-10-31,BX8,Other,,-,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Crush/bruise,Eye,5,Non-work related accident
+ankle injury,Electric,SousseMETS,2022-11-11,Logistics,Logistics,,Tools / Utilities,Trolley,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Stab wound,Foot,11,Work related accident
+foot injury,Electric,SousseMETS,2022-11-30,KS,E-Cable Cutting - cable or cable-set,,Tools / Utilities,Trolley,"9.1 Lifting, holding, carrying or pulling, pushing",YES,,DRX,Male,Fracture,Foot,13,Work related accident
+shoulder injury,Electric,SousseMETS,2022-12-01,Production,E-Cable Cutting - cable or cable-set,,Tools / Utilities,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Other,-,14,Work related accident
+Leg injury,Electric,Jemmal,2022-02-23,,E-Assembly - Item number,,Conveyor System / Robot,Conveyor system,1.2 Parts with dangerous surfaces,NO,NO,DRX,Female,Crush/bruise,Leg,1,Work related accident
+level fall,Electric,Jemmal,2022-04-01,Changing room,Other,,Work place / stairs,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",YES,NO,DRX,Female,Sprain / Strain,Leg,15,Work related accident
+finger injury,Electric,Jemmal,2022-07-12,FBB,Other,,Wood and processing machines,circular saw,1.2 - Workplace-related operating instruction,NO,NO,DRX,Male,Cut,Hand,8,Work related accident
+Nose injury,Electric,Jemmal,2022-09-23,IR,E-Final Assembly - Customer order,,Tools / Utilities,Lagger,2.1 - Working spaces,NO,YES,DRX,Female,Crush/bruise,Head,7,Work related accident
+lumbago,Electric,ElJem,2023-02-02,MM,E-Pre Assembly - Detail Planning Group DPG,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,YES,DRX,Female,Other,Body,7,Work related accident
+toe injury,Electric,ElJem,2023-02-21,Logistics,Logistics,,,,4.3 - Means of transport,NO,YES,DRX,Male,Fracture,Foot,15,Work related accident
+lumbago,Electric,ElJem,2023-03-18,Logistics,Other,,,,1.1 - Workplace-related training,NO,YES,DRX,Male,Other,Body,6,Work related accident
+body injury,Electric,ElJem,2023-04-06,Logistics,Logistics,,,,1.1 - Workplace-related training,NO,YES,DRX,Male,Other,Body,2,Work related accident
+back injury,Electric,ElJem,2023-06-14,IR,Other,,,,1.2 - Workplace-related operating instruction,NO,YES,DRX,Male,Other,Body,3,Work related accident
+hand injury,Electric,ElJem,2023-08-22,IR,I-Production step 3 - lamination and finishing processes - production cell,,,,1.2 Parts with dangerous surfaces,YES,YES,DRX,Female,Cut,Hand,3,Work related accident
+foot injury,Electric,ElJem,2023-09-22,Logistics,Logistics,,Lifting Gear / conveyors,Amaisa,2.2 - Traffic routes,NO,NO,DRX,Male,Crush/bruise,Foot,7,Work related accident
+Right pelvis Trauma,Electric,ElJem,2023-11-02,,I-Production step 5 - sequenced assembly - production island,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,NO,DRX,Male,Crush/bruise,Body,4,Work related accident
+elbow injury,Electric,ElJem,2023-12-15,Production,E-Final Assembly - Customer order,,Power / Work Machine,Transpalet,2.2 - Traffic routes,NO,NO,DRX,Female,Crush/bruise,Head,1,Work related accident
+hand injury,Electric,Siliana,2023-01-17,IR,Other,,,,"9.1 Lifting, holding, carrying or pulling, pushing",NO,,DRX,Male,Crush/bruise,Hand,7,Non-work related accident
+foot injury,Electric,Siliana,2023-02-23,Production,Other,,Processing Machines,,1.2 Parts with dangerous surfaces,NO,,DRX,Male,Crush/bruise,Foot,5,Non-work related accident
+crush internal organ,Electric,Siliana,2023-03-03,Production,Other,,Work place / paths,,1.2 Parts with dangerous surfaces,NO,,DRX,Male,Crush/bruise,Internal organs,18,Work related accident
+foot injury,Electric,Siliana,2023-06-02,KS,Other,,Work place / paths,,1.2 Parts with dangerous surfaces,NO,,DRX,Male,Crush/bruise,Foot,25,Work related accident
+interna organ crush,Electric,Siliana,2023-08-16,Quality,Other,,Work place / paths,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Crush/bruise,Leg,10,Work related accident
+interna organ crush,Electric,Siliana,2023-08-16,Quality,Other,,Work place / paths,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Female,Crush/bruise,Hand,10,Work related accident
+interna organ crush,Electric,Siliana,2023-07-11,Production,E-Cable Cutting - cable or cable-set,,Work place / paths,,"1.5 Falling, slipping, stumbling, tripping",NO,,DRX,Male,Crush/bruise,Leg,7,Work related accident
+hip injury,Electric,Siliana,2023-10-19,ZB,Other,,Tool / Utilities,,10.3 - Social conditions,NO,NO,DRX,Male,Crush/bruise,Body,7,Non-work related accident
+hand injury,Electric,Siliana,2023-11-11,,Other,,,,11.1 - Humans,NO,NO,DRX,Female,Crush/bruise,Leg,7,Work related accident
+hand injury,Electric,Siliana,2023-11-15,VK,E-Cable Cutting - cable or cable-set,,,,11.2 - Humans,NO,NO,DRX,Female,Stab injury,Hand,10,Non-work related accident
+leg injury,Electric,Siliana,2023-11-18,,Other,,,,,NO,NO,DRX,Female,Crush/bruise,Leg,30,Work related accident
+leg injury,Electric,Siliana,2023-11-25,Maintenance,,,,,,NO,NO,DRX,Male,Fracture,Leg,37,Work related accident
+knee injury,Electric,Siliana,2023-11-27,IR,Other,,,,11.2 - Humans,NO,NO,DRX,Female,Crush/bruise,Leg,3,Non-work related accident
+epole injury,Electric,Siliana,2023-12-01,,Logistics,,,,1.2 - Workplace-related operating instruction,NO,NO,DRX,Male,Fracture,Arm,31,Work related accident
+hand injury,Electric,Siliana,2023-12-18,Maintenance,,,,,,,,,,Crush/bruise,Hand,,Work related accident
+back injury,Interior,SousseUATS,2023-03-26,Production,E-Assembly - Item number,,,,3.1 - Heavy physical work,YES,NO,DRX,Male,Sprain / Strain,Body,29,Work related accident
+fall a metal door on the employee,Interior,SousseUATS,2023-06-17,Logistics,Other,,,,4.4 - Parts moving uncontrolled,NO,NO,DRX,Male,Burn/scald,Head,28,Work related accident
+Fall due to slipping,Interior,SousseUATS,2023-07-17,Logistics,Logistics,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,NO,DRX,Male,Sprain / Strain,Body,14,Work related accident
+hand injury,Interior,SousseUATS,2023-09-05,Production,Other,,Processing Machines,Sewing,4.4 - Parts moving uncontrolled,NO,NO,DRX,Female,Stab injury,Hand,6,Work related accident
+shoulder injury,Interior,SousseUATS,2023-07-30,Production,C-Back End (assembly),,Processing Machines,AP2_JLR,4.4 - Parts moving uncontrolled,NO,NO,DRX,Male,Sprain / Strain,Arm,131,Work related accident
+Moving abnormally caused by Carrying a heavy box,Interior,SousseUATS,2023-11-06,Production,E-Assembly - Item number,,Packaging Machine,Assembly,3.1 - Heavy physical work,NO,NO,DRX,Male,Other,Body,8,Work related accident
+finger injury,Electric,SousseMETS,2023-01-19,BX8,E-Final Assembly - Customer order,,-,,1.2 Parts with dangerous surfaces,NO,,DRX,Female,Crush/bruise,Hand,20,Work related accident
+ankle injury,Electric,SousseMETS,2023-02-02,BX8,Other,,-,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",YES,,DRX,Female,Crush/bruise,Foot,11,Non-work related accident
+foot injury,Electric,SousseMETS,2023-02-02,KS,Other,,-,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,,DRX,Female,Crush/bruise,Foot,7,Work related accident
+finger injury,Electric,SousseMETS,2023-02-08,VK,E-Cable Cutting - cable or cable-set,,Power / Work Machine,crimping machine,1.2 - Workplace-related operating instruction,YES,,DRX,Female,Crush/bruise,Hand,11,Work related accident
+back injury,Electric,SousseMETS,2023-02-17,Production,E-Cable Cutting - cable or cable-set,,,,3.1 - Heavy physical work,YES,,DRX,Male,Sprain / Strain,Body,11,Work related accident
+Lumbar trauma,Electric,SousseMETS,2023-04-14,VK,E-Cable Cutting - cable or cable-set,,,,3.8 - Impeded handling of work equipment,NO,,DRX,Female,Crush/bruise,Body,6,Work related accident
+back injury,Electric,SousseMETS,2023-04-26,BX8,Other,,-,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",YES,,DRX,Female,Other,Body,21,Non-work related accident
+hand injury,Electric,SousseMETS,2023-05-04,BX8,E-Final Assembly - Customer order,,Conveyor System / Robot,Baubrett (Assembly line),1.2 - Workplace-related operating instruction,NO,,DRX,Male,Crush/bruise,Hand,20,Work related accident
+Slipping leading to Right Hip Injury,Electric,SousseMETS,2023-05-25,Zeta,Other,,-,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",YES,,DRX,Female,Crush/bruise,Leg,11,Non-work related accident
+Head injury,Electric,SousseMETS,2023-05-24,Production,-,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",YES,,DRX,Male,Crush/bruise,Head,6,Non-work related accident
+shoulder injury,Electric,SousseMETS,2023-06-08,KS,E-Cable Cutting - cable or cable-set,,Lifting Gear / conveyors,,4.3 - Means of transport,YES,,DRX,Male,Other,Body,8,Work related accident
+wrist injury,Electric,SousseMETS,2023-06-07,Logistics,E-Final Assembly - Customer order,,-,,1.1 - Workplace-related training,NO,,DRX,Female,Crush/bruise,Hand,11,Work related accident
+shoulder injury,Electric,SousseMETS,2023-07-06,Logistics,Logistics,,,,1.2 - Workplace-related operating instruction,NO,,DRX,Male,Crush/bruise,Body,7,Work related accident
+thumb injury,Electric,SousseMETS,2023-10-13,KS,E-Cable Cutting - cable or cable-set,,,,1.4 - Hazardous work,NO,,DRX,Male,Crush/bruise,Hand,15,Work related accident
+finger injury,Electric,Jemmal,2023-05-11,Production,Logistics,,Tools / Utilities,Electric screwdriver,1.2 - Workplace-related operating instruction,NO,NO,DRX,Male,Stab injury,Hand,5,Work related accident
+finger injury,Electric,Jemmal,2023-05-16,Production,Logistics,,Tools / Utilities,stepladder,"2.3 - Falling on even ground, slipping, stumbling, twisting
+one’s ankle, missteps",NO,NO,DRX,Male,Sprain / Strain,Hand,9,Work related accident
+hand injury,Electric,Jemmal,2023-05-20,Production,Other,,Conveyor System / Robot,workstation,4.4 - Parts moving uncontrolled,NO,NO,DRX,Female,Crush/bruise,Hand,5,Work related accident
+hand injury,Electric,Jemmal,2023-05-29,Production,I-Production step 4 - bulk assembly - production island,,Wood and processing machines,support metalique,3.8 - Impeded handling of work equipment,,,DRX,Female,Crush/bruise,Hand,5,Work related accident
+finger injury,Electric,Jemmal,2023-06-12,Production,E-Assembly - Item number,,Lifting Gear / conveyors,plastic boxes,4.4 - Parts moving uncontrolled,NO,NO,DRX,Female,Crush/bruise,Hand,5,Work related accident
+hand injury,Electric,Jemmal,2023-07-10,Foaming Area,C-Mid End (injection molding / stamping - bending ...),,Plastics processing machines,foaming ingection machine,4.4 - Parts moving uncontrolled,NO,NO,DRX,Male,Crush/bruise,Hand,5,Work related accident
+hand injury,Electric,Jemmal,2023-08-30,Production IR,E-Final Assembly - Customer order,,Wood and processing machines,Metal support,3.8 - Impeded handling of work equipment,NO,YES,DRX,Male,Crush/bruise,Hand,5,Work related accident
+back injury,Electric,Jemmal,2023-08-30,Administration,Office,,,,2.2 - Traffic routes,NO,,DRX,Male,Sprain / Strain,Body,5,Work related accident
+neck injury,Electric,Jemmal,2023-09-18,IR,E-Final Assembly - Customer order,,,,11.2 - Humans,NO,YES,DRX,Female,Sprain / Strain,Body,5,Work related accident
+head injury,Electric,Jemmal,2023-09-19,IR,Logistics,,Tools / Utilities,stepladder locking bracket,4.2 - Parts with hazardous surfaces,NO,NO,DRX,Male,Crush/bruise,Head,5,Work related accident
+hand injury,Electric,Jemmal,2023-01-03,Production,Logistics,,Tools / Utilities,shelfs,3.1 - Heavy physical work,NO,YES,DRX,Male,Sprain / Strain,Hand,9,Work related accident
+hand injury,Electric,Jemmal,2023-02-15,Production,Other,,Processing Machines,Electrical function test,4.4 - Parts moving uncontrolled,NO,YES,DRX,Male,Crush/bruise,Hand,8,Work related accident
+hand injury,Electric,Jemmal,2023-04-03,FBB,Other,,Wood and processing machines,Nutrunner,4.4 - Parts moving uncontrolled,NO,YES,DRX,Male,Crush/bruise,Hand,5,Work related accident
+thumb injury,Electric,Jemmal,2023-04-19,Logistics,Logistics,,Tools / Utilities,racks,1.10 - General communication,NO,YES,DRX,Male,Crush/bruise,Hand,15,Work related accident
+hand injury,Electric,Jemmal,2023-06-01,IR,I-Production step 4 - bulk assembly - production island,,Wood and processing machines,support metallique,3.8 - Impeded handling of work equipment,YES,,DRX,Female,Crush/bruise,Hand,2,Work related accident
+trolley Accident,Electric,Jemmal,2023-11-13,Foaming Area,C-Mid End (injection molding / stamping - bending ...),,Tool / Utilities,trolley,4.3 - Means of transport,NO,NO,DRX,Male,Cut,Foot,10,Work related accident
+Leg injury,Electric,ElJem,2024-01-30,IR,Other,,Lifting Gear / conveyors,trolley,2.2 - Traffic routes,NO,NO,DRX,Female,Crush/bruise,Leg,9,Work related accident
+head injury,Electric,ElJem,2024-04-24,MR,Other,,Work place / paths,the Guillot support,2.2 - Traffic routes,NO,NO,DRX,Male,Crush/bruise,Head,4,Work related accident
+hand injury,Electric,ElJem,2024-06-06,Production,Other,,Metal Working Machine,the pince of boutel,3.8 - Impeded handling of work equipment,NO,NO,DRX,Female,Crush/bruise,Hand,10,Work related accident
+hand injury,Electric,ElJem,2024-09-07,MM,Logistics,,Work place / paths,stepladder,3.8 - Impeded handling of work equipment,NO,NO,DRX,Male,Crush/bruise,Hand,5,Work related accident
+Intervention on the Tesa spender adhesive tape cutting machine,Electric,Siliana,2024-01-06,KS,E-Cable Cutting - cable or cable-set,,Machine Tool,Tesa spender,1.3 - Coordination of work,NO,,DRX,Female,Stab wound,Hand,10,Work related accident
+hand injury,Electric,Siliana,2024-02-05,Production,E-Assembly - Item number,,Tools / Utilities,Three-hole expansion pliers (HWZ),11.2 - Humans,NO,,DRX,Female,Fracture,Hand,117,Work related accident
+hand injury,Electric,Siliana,2024-02-17,Maintenance,Other,,Wood and processing machines,,4.1 - Unprotected moving parts of machinery,NO,NO,DRX,Male,Stab wound,Hand,3,Work related accident
+Face injury ,Electric,Siliana,2024-01-10,Production,I-Production step 4 - bulk assembly - production cell,,Tools / Utilities,,4.4 - Parts moving uncontrolled,NO,NO,DRX,Female,Stab wound,Head,5,Work related accident
+leg injury,Electric,Siliana,2024-01-01,,,,,,,,,,,,,8,
+epole injury,Electric,Siliana,2024-01-01,,,,,,,,,,,,,2,
+ankle injury,Electric,Siliana,2024-03-21,Production,I-Production step 4 - bulk assembly - production cell,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting one’s ankle, missteps",NO,,DRX,Female,Sprain / strain,Foot,13,Non-work related accident
+hand injury,Electric,Siliana,2024-05-07,Production,I-Production step 4 - bulk assembly - production cell,,,,11.2 - Humans,NO,,DRX,Female,Other,Hand,14,Non-work related accident
+finger injury,Electric,Siliana,2024-05-08,KS,E-Cable Cutting - cable or cable-set,,Power / Work Machine,Schafer-736,1.2 - Workplace-related operating instruction,NO,NO,DRX,Female,Sprain / strain,Hand,21,Non-work related accident
+shoulder injury,Electric,Siliana,2024-05-27,Logistics,Logistics,,Lifting Gear / conveyors,,4.2 - Parts with hazardous surfaces,NO,,DRX,Male,,Hand,3,Work related accident
+hand injury,Electric,Siliana,2024-05-22,Production,Other,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting one’s ankle, missteps",YES,,DRX,Female,Other,Hand,10,Non-work related accident
+Epileptic Seizure,Electric,Siliana,2024-05-28,ZSB,E-Assembly - Item number,,,,11.2 - Humans,NO,,DRX,Female,Sprain / strain,Hand,21,Non-work related accident
+eye injury,Electric,Siliana,2024-08-28,ZSB,E-Final Assembly - Customer order,,,,4.2 - Parts with hazardous surfaces,NO,,DRX,Female,Other,Eye,7,Work related accident
+Use of a Blade Holder,Electric,Siliana,2024-09-18,Logistics,Logistics,,Tools / Utilities,Blade Holder,4.2 - Parts with hazardous surfaces,NO,NO,DRX,Female,Stab wound,Hand,8,Work related accident
+hand injury,Electric,Siliana,2024-09-19,Logistics,Logistics,,,,3.1 - Heavy physical work,NO,YES,DRX,Male,Other,Body,7,Work related accident
+Fall of an Operator Using an Inadequate Ladder,Electric,Siliana,2024-09-21,Bereit,Logistics,,,,"2.3 - Falling on even ground, slipping, stumbling, twisting one’s ankle, missteps",NO,,DRX,Male,Fracture,Hand,49,Work related accident
+back injury,Electric,Siliana,2024-09-25,Logistics,Logistics,,,,3.1 - Heavy physical work,YES,YES,DRX,Male,Other,Body,15,Work related accident
+finger injury,Electric,Siliana,2024-10-10,VK,E-Cable Cutting - cable or cable-set,,Machine Tool,HANKE 11290/044,4.4 - Parts moving uncontrolled,NO,,DRX,Male,Cut,Hand,45,Work related accident
+eye injury,Electric,Siliana,2024-10-23,MR,E-Final Assembly - Customer order,,,,4.2 - Parts with hazardous surfaces,NO,YES,DRX,Female,Other,Eye,7,Work related accident
+eye injury,Electric,Siliana,2024-10-24,MM,E-Staging Pre-assembly - Detail Planning Group DPG,,,,4.2 - Parts with hazardous surfaces,NO,YES,DRX,Female,Other,Eye,10,Work related accident
+finger injury,Interior,SousseUATS,2024-02-17,SI,Other,,Tools / Utilities,Fire fighting door,3.1 - Heavy physical work,NO,NO,DRX,Male,Fracture,Hand,36,Work related accident
+knee injury,Interior,SousseUATS,2024-10-08,Production,Other,,Tools / Utilities,wooden pallet in the production process,"10.2 - Scope of action, responsibility",NO,NO,DRX,Male,Other,Leg,8,Work related accident
+Falling leading to Cervical Trauma,Electric,SousseMETS,2024-03-06,zeta,E-Cable Cutting - cable or cable-set,,Work place / paths,,"2.3 - Falling on even ground, slipping, stumbling, twisting one’s ankle, missteps",YES,,DRX,Male,Crush/bruise,Body,15,Work related accident
+eye injury,Electric,SousseMETS,2024-05-22,BX8,C-Back End (assembly),,Work place / paths,,"2.3 - Falling on even ground, slipping, stumbling, twisting one’s ankle, missteps",YES,,DRX,Male,Crush/bruise,Eye,8,Work related accident
+foot injury,Electric,SousseMETS,2024-06-04,KS,E-Cable Cutting - cable or cable-set,,Work place / paths,,2.2 - Traffic routes,NO,,DRX,Female,Sprain / Strain,Foot,9,Work related accident
+ankle injury,Electric,SousseMETS,2024-08-14,BX8,C-Back End (assembly),,Work place / paths,,"2.3 - Falling on even ground, slipping, stumbling, twisting one’s ankle, missteps",NO,,DRX,Male,Crush/bruise,Leg,14,Non-work related accident
+Right Arm Injury,Electric,SousseMETS,2024-09-23,KS,Other,,Work place / paths,,3.10 - Workstations,NO,NO,DRX,Male,Crush/bruise,Arm,11,Work related accident
+ankle injury,Electric,SousseMETS,2024-09-18,Outside building,Other,,-,,"2.3 - Falling on even ground, slipping, stumbling, twisting one’s ankle, missteps",,,DRX,Male,Sprain / Strain,Foot,11,Non-work related accident
+hand injury,Electric,SousseMETS,2024-11-27,KS,Other,,-,KOMAX 253,4.4 - Parts moving uncontrolled,NO,,DRX,Male,Fracture,Hand,17,Work related accident
+trip and fall Incident,Electric,Jemmal,2024-01-30,IR,E-Assembly - Item number,,Tools / Utilities,metal cart,"2.3 - Falling on even ground, slipping, stumbling, twisting one’s ankle, missteps",NO,YES,DRX,Female,Laceration,Hand,10,Work related accident
+eye injury,Electric,Jemmal,2024-03-21,,E-Final Assembly - Customer order,,Metal Working Machine,IR table structure,4.2 - Parts with hazardous surfaces,NO,YES,DRX,Male,Cut,Head,6,Work related accident
+foot injury,Electric,Jemmal,2024-02-27,changing room,Other,,Work place / paths,changing room floor,"2.3 - Falling on even ground, slipping, stumbling, twisting one’s ankle, missteps",NO,YES,DRX,Female,Sprain / strain,Leg,13,Non-work related accident
+Leg injury,Electric,Jemmal,2024-03-06,Logistics,Logistics,,Tools / Utilities,plastic box,4.4 - Parts moving uncontrolled,NO,YES,DRX,Male,Crush/bruise,Leg,4,Work related accident
+finger injury,Electric,Jemmal,2024-08-15,WC,Other,,Tools / Utilities,changing room,2.1 - Working spaces,NO,YES,DRX,Male,Fracture,Hand,13,Non-work related accident
+thumb injury,Electric,Jemmal,2024-10-21,IR,E-Final Assembly - Customer order,,Machine Tool,foaming machine mold,3.8 - Impeded handling of work equipment,NO,YES,DRX,Male,Sprain / Strain,Hand,4,Work related accident
+head injury,Electric,Jemmal,2024-10-26,Maintenance,E-Final Assembly - Customer order,,Tools / Utilities,feeding workstation,3.1 - Heavy physical work,NO,YES,DRX,Male,Crush/bruise,Head,6,Work related accident
+back injury,Electric,Jemmal,2024-11-14,Production,E-Assembly - Item number,,Work place / paths,,11.2 - Humans,NO,NO,DRX,Female,Sprain / strain,Body,5,Work related accident
+hand injury,Electric,Jemmal,2024-11-16,Production,Other,,Work place / paths,Plastic box,3.8 - Impeded handling of work equipment,NO,NO,DRX,Male,Fracture,Hand,31,Work related accident
+back injury,Electric,Jemmal,2024-12-02,IR,E-Final Assembly - Customer order,,Work place / paths,anti fatigue mat,2.1 - Working spaces,NO,YES,DRX,Female,Sprain / Strain,Body,27,Work related accident
+Wound due to connecter,Electric,Jemmal,2024-12-06,Production,E-Assembly - Item number,,Tools / Utilities,cable connector,3.8 - Impeded handling of work equipment,NO,YES,DRX,Male,Laceration,Hand,5,Work related accident
+foot injury,Interior,Rosslyn,2024-06-24,Logistics,,,,,,,,DRX,,,Foot,20,Work related accident
